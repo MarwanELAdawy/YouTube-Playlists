@@ -6,7 +6,7 @@ YouTube playlists road map for computer science students.
 # YouTube-Playlists
 YouTube-PlayLists road map for computer science students.
 
-## 1. Computer-Science-Playlists
+## [1. Computer-Science-Playlists]()
 Computer Science Playlists road map for computer science students, which including the following main topics:
 
 <details>
@@ -49,7 +49,7 @@ Computer Science Playlists road map for computer science students, which includi
 **SKILLS YOU WILL GAIN:**<br>
 `computer science`, `discrete mathematics`, `mathematics`, `probability`, `statistics`, `python programming`, `c++ programming`, `c programming`, `c++ object oriented programming (oop)`, `python object oriented programming (oop)`, `logic design`, `data structures`, `algorithms`, `advanced data Structures`, `advanced algorithms`, `theory of computations`, `compiler`, `concepts of programming languages`, `computer architecture`, `computer organization`
 
-## 2. Artificial-Intelligence-Playlists
+## [2. Artificial-Intelligence-Playlists]()
 Artificial Intelligence Playlists road map for computer science students, which including the following main topics:
 
 <details>
@@ -88,7 +88,7 @@ Artificial Intelligence Playlists road map for computer science students, which 
 **SKILLS YOU WILL GAIN:**<br>
 `artificial intelligence`, `data analysis`, `excel`, `data management`, `data processing`, `data mining`, `text mining`, `natural language processing`, `natural language toolkit (nltk)`, `time series`, `machine learning`, `advanced machine learning`, `multi-task learning`, `reinforcement learning`, `markov chain monte carlo (mcmc)`, `data vizualisation`, `advanced data vizualisation`, `matlab programming`, `python programming`, `python libraries`, `digital signals processing`, `pattern recognition`, `image processing`, `computer graphics`, `deep learning`, `speech processing`, `dimensionality reduction`, `computer vision`, `cloud computing`, `tensorflow serving`, `keras`, `pytorch`
 
-## 3. Data-Science-Playlists
+## [3. Data-Science-Playlists]()
 Data Science Playlists road map for computer science students.
 
 <details>
@@ -127,7 +127,7 @@ Data Science Playlists road map for computer science students.
 **SKILLS YOU WILL GAIN:**<br>
 `data science`, `data analysis`, `excel`, `data cleansing`, `data management`, `data processing`, `data validation`, `data wrangling`, `data quality`, `data modeling`, `data parallelism`, `data integration`, `data storage`, `data retrieval`, `data warehousing`, `data engineering`, `data mining`, `text mining`, `natural language processing`, `natural language toolkit (nltk)`, `time series`, `machine learning`, `advanced machine learning`, `multi-task learning`, `reinforcement learning`, `markov chain monte carlo (mcmc)`, `tableau`, `data vizualisation`, `advanced data vizualisation`, `python programming`, `r programming`, `rstudio`, `scala programming`, `python libraries`, `sql`, `nosql`, `database systems`, `database design`, `business analysis`, `business intelligence`, `apache spark`, `apache hadoop`, `big data`, `presentation design`, `extraction and transformation and loading (etl)`, `web scraping`, `parallel computing`, `cloud computing`, `cloud databases`
 
-## 4. Software-Engineering-Playlists
+## [4. Software-Engineering-Playlists]()
 Software Engineering Playlists road map for computer science students.
 
 <details>
