@@ -3,9 +3,6 @@
 # YouTube-Playlists
 YouTube playlists road map for computer science students.
 
-# YouTube-Playlists
-YouTube-PlayLists road map for computer science students.
-
 ## [1. Computer-Science-Playlists](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/1.Computer-Science-Playlists)
 Computer Science Playlists road map for computer science students, which including the following main topics:
 
