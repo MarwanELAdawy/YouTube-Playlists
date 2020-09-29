@@ -20,7 +20,11 @@ Artificial Intelligence Playlists road map for computer science students, which 
 
 </details>
 <details>
-	<summary>Computer Vision and Image Processing and Computer Graphics Playlists</summary>
+	<summary>Computer Graphics Playlists</summary>
+
+</details>
+<details>
+	<summary>Computer Vision and Image Processing Playlists</summary>
 
 </details>
 <details>
