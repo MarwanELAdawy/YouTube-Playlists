@@ -31,6 +31,11 @@ Software Engineering Playlists road map for computer science students.
 	<summary>Continuous Delivery and DevOps Playlists</summary>
 
 </details>
+
+<details>
+	<summary>Cloud Computing Playlists</summary>
+
+</details>
 <details>
 	<summary>Project Management Playlists</summary>
 
