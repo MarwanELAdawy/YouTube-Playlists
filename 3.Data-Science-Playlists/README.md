@@ -20,11 +20,15 @@ Data Science Playlists road map for computer science students.
 	
 </details>
 <details>
-	<summary>Database Systems and Data Warehousing Playlists</summary>
+	<summary>Database Management Systems and Data Warehousing Playlists</summary>
 	
 </details>
 <details>
 	<summary>Files Organization and Data Storage Playlists</summary>
+	
+</details>
+<details>
+	<summary>Database Design Playlists</summary>
 	
 </details>
 <details>
