@@ -26,10 +26,11 @@ Artificial Intelligence Playlists road map for computer science students, which 
 ### 2.2- Machine Learning and Data Mining Playlists
 ### 2.3- Artificial Intelligence Playlists
 ### 2.4- Digital Signal Processing and Data Compression
-### 2.5- Computer Vision and Image Processing and Computer Graphics Playlists
-### 2.6- Deep Learning Playlists
-### 2.7- Natural Language Processing Playlists
-### 2.8- Reinforcement Learning Playlists
+### 2.5- Computer Graphics Playlists
+### 2.6- Computer Vision and Image Processing Playlists
+### 2.7- Deep Learning Playlists
+### 2.8- Natural Language Processing Playlists
+### 2.9- Reinforcement Learning Playlists
 
 **SKILLS YOU WILL GAIN:**<br>
 `artificial intelligence`, `data analysis`, `excel`, `data management`, `data processing`, `data mining`, `text mining`, `natural language processing`, `natural language toolkit (nltk)`, `time series`, `machine learning`, `advanced machine learning`, `multi-task learning`, `reinforcement learning`, `markov chain monte carlo (mcmc)`, `data vizualisation`, `advanced data vizualisation`, `matlab programming`, `python programming`, `python libraries`, `digital signals processing`, `pattern recognition`, `image processing`, `computer graphics`, `deep learning`, `speech processing`, `dimensionality reduction`, `computer vision`, `cloud computing`, `tensorflow serving`, `keras`, `pytorch`
