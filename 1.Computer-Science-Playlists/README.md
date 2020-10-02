@@ -67,54 +67,6 @@ Computer Science Playlists road map for computer science students, which includi
 <details>
 	<summary>Mathematics and Discrete Mathematics Playlists</summary>
 
-<h3>-  Algebra</h3>
-<b>-  Khan Academy</b> <a href="https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0">Linear Algebra</a>, <b>144 Videos</b>, <b>40 Hours</b><br>
-<b>-  Khan Academy</b> <a href="https://www.youtube.com/playlist?list=PL7AF1C14AF1B05894">Algebra</a>, <b>92 Videos</b>, <b>15 Hours</b><br>
-<b>-  Khan Academy</b> <a href="https://www.youtube.com/playlist?list=PLSQl0a2vh4HDdl6PcjwZH2CkM5OoV6spg">Algebra 1 | Get Ready for Grade Level | Khan Academy</a>, <b>127 Videos</b>, <b>10 Hours</b><br>
-<b>-  Khan Academy</b> <a href="https://www.youtube.com/playlist?list=PLSQl0a2vh4HAB5mMeiG2DQy1FL5e9I4eg">Algebra 2 | Get Ready for Grade Level | Khan Academy</a>, <b>155 Videos</b>, <b>15 Hours</b><br>
-<b>-  3Blue1Brown</b> <a href="https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab">Essence of Linear Algebra</a>, <b>15 Videos</b>, <b>5 Hours</b><br>
-<b>-  MIT OpenCourseWare</b> <a href="https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C">MIT 18.06sc Linear Algebra, Fall 2011</a>, <b>74 Videos</b>, <b>40 Hours</b><br>
-<b>-  The Organic Chemistry Tutor</b> <a href="https://www.youtube.com/playlist?list=PL0o_zxa4K1BUeF2o-MlNpbRiS-oE2Kn6J">New Algebra Playlist</a>, <b>185 Videos</b>, <b>30 Hours</b><br>
-<b>-  The Organic Chemistry Tutor</b> <a href="https://www.youtube.com/playlist?list=PL0o_zxa4K1BWKL_6lYRmEaXY6OgZWGE8G">Algebra Playlist</a>, <b>88 Videos</b>, <b>25 Hours</b><br>
-<b>-  Team Lyqa</b> <a href="https://www.youtube.com/playlist?list=PLtQqxDEgSqMDTKlVW7kJ1e7HRUJ2TVs0h">Algebra</a>, <b>26 Videos</b>, <b>10 Hours</b><br>
-<b>-  Gate Lectures by Ravindrababu Ravula</b> <a href="https://www.youtube.com/playlist?list=PLEbnTDJUr_IdiveZ4bvOc1Oh2zEp7J8z6">Linear Algebra</a>, <b>31 Videos</b>, <b>5 Hours</b><br>
-<b>-  Michel van Biezen</b> <a href="https://www.youtube.com/playlist?list=PLX2gX-ftPVXVuWEutmvA163NoDCAhiWv2">Linear Algebra 1: Basic Concepts</a>, <b>35 Videos</b>, <b>5 Hours</b><br>
-<b>-  Michel van Biezen</b> <a href="https://www.youtube.com/playlist?list=PLX2gX-ftPVXUT6cBuDAjO2Z2XURDgdp8f">Linear Algebra 2: Determinants</a>, <b>48 Videos</b>, <b>5 Hours</b><br>
-<b>-  Michel van Biezen</b> <a href="https://www.youtube.com/playlist?list=PLX2gX-ftPVXXPJEenunQp5qujemZAFo-q">Algebra 0.5 Basic Concepts</a>, <b>26 Videos</b>, <b>5 Hours</b><br>
-<b>-  Michel van Biezen</b> <a href="https://www.youtube.com/playlist?list=PLX2gX-ftPVXXv7HYMGLy4iQ1jGw3GdUgS">Algebra 0.6 Basic Concepts</a>, <b>37 Videos</b>, <b>5 Hours</b><br>
-<b>-  Michel van Biezen</b> <a href="https://www.youtube.com/playlist?list=PLX2gX-ftPVXVZlKHFLsun6RMyhyYB_9pd">Algebra CH 1 Linear Equations</a>, <b>21 Videos</b>, <b>5 Hours</b><br>
-<b>-  Michel van Biezen</b> <a href="https://www.youtube.com/playlist?list=PLX2gX-ftPVXXzingf8nMjYiotn6zMb8cU">Algebra CH 2 Word Problems</a>, <b>46 Videos</b>, <b>5 Hours</b><br>
-<b>-  Michel van Biezen</b> <a href="https://www.youtube.com/playlist?list=PLX2gX-ftPVXXILNmjnirkAvoSfNPHOUuI">Algebra CH 3 Formulas, Inequalities, Absolute Values</a>, <b>33 Videos</b>, <b>5 Hours</b><br>
-<b>-  Michel van Biezen</b> <a href="https://www.youtube.com/playlist?list=PLX2gX-ftPVXV8Egh8GQFoB-4jjBjyn0jA">Algebra CH 4 Exponents AND Scientific Notation</a>, <b>36 Videos</b>, <b>5 Hours</b><br>
-<b>-  Michel van Biezen</b> <a href="https://www.youtube.com/playlist?list=PLX2gX-ftPVXWrfV8WHAgOhemX9AIMzwQE">Algebra CH 5 Polynomials</a>, <b>31 Videos</b>, <b>5 Hours</b><br>
-<b>-  Michel van Biezen</b> <a href="https://www.youtube.com/playlist?list=PLX2gX-ftPVXV4Y94FabLahogXkfWHxOK7">Algebra CH 6 Factoring</a>, <b>54 Videos</b>, <b>5 Hours</b><br>
-<b>-  Michel van Biezen</b> <a href="https://www.youtube.com/playlist?list=PLX2gX-ftPVXWViYj6zAZ6QB9zyZ8a_nry">Algebra CH 7 Factoring Practice Problems</a>, <b>22 Videos</b>, <b>5 Hours</b><br>
-<b>-  Michel van Biezen</b> <a href="https://www.youtube.com/playlist?list=PLX2gX-ftPVXU1VuxdokBccoTa5G_slM1i">Algebra CH 8 Solving Quadratic Equations With Factoring</a>, <b>21 Videos</b>, <b>5 Hours</b><br>
-<b>-  Michel van Biezen</b> <a href="https://www.youtube.com/playlist?list=PLX2gX-ftPVXV1oqNmS_hr6DNpSHnW_bnA">Algebra CH 9 Solving Word Problems With Factoring</a>, <b>17 Videos</b>, <b>5 Hours</b><br>
-<b>-  Professor Leonard</b> <a href="https://www.youtube.com/playlist?list=PLC292123722B1B450">Intermediate Algebra (full Length Videos)</a>, <b>46 Videos</b>, <b>45 Hours</b><br>
-<b>-  Professor Leonard</b> <a href="https://www.youtube.com/playlist?list=PL4C9296DF81B9EF13">Prealgebra (full Length Videos)</a>, <b>44 Videos</b>, <b>35 Hours</b><br>
-<b>-  Math Meeting</b> <a href="https://www.youtube.com/playlist?list=PL06E9BCF3F9327B21">Algebra - Logarithm playlist</a>, <b>4 Videos</b>, <b>1 Hours</b><br>
-<b>-  Math Meeting</b> <a href="https://www.youtube.com/playlist?list=PLAA7AE4A6F75229C2">Algebra - Factoring playlist</a>, <b>7 Videos</b>, <b>5 Hours</b><br>
-<b>-  Math Meeting</b> <a href="https://www.youtube.com/playlist?list=PLDF1EE75CA880D618">Algebra - Inequalities playlist</a>, <b>7 Videos</b>, <b>1 Hours</b><br>
-<b>-  Math Meeting</b> <a href="https://www.youtube.com/playlist?list=PLF606E8667617F16B">Algebra - Equation of a line playlist</a>, <b>5 Videos</b>, <b>1 Hours</b><br>
-<b>-  NancyPi</b> <a href="https://www.youtube.com/playlist?list=PL3j1ntBPCU_rS8v_Nbifh9uBX2GTgPwcB">Algebra</a>, <b>11 Videos</b>, <b>5 Hours</b><br>
-<b>-  NancyPi</b> <a href="https://www.youtube.com/playlist?list=PL3j1ntBPCU_r6fSJ7PQJXrze85bXa8oE3">Algebra 2</a>, <b>16 Videos</b>, <b>5 Hours</b><br>
-<b>-  NancyPi</b> <a href="https://www.youtube.com/playlist?list=PL3j1ntBPCU_qTxYvPjtWXG3-T1XaKvJjV">Solving Systems of Equations</a>, <b>2 Videos</b>, <b>1 Hours</b><br>
-<b>-  TheTrevTutor</b> <a href="https://www.youtube.com/playlist?list=PLDDGPdw7e6AjJacaEe9awozSaOou-NIx_">Linear Algebra</a>, <b>51 Videos</b>, <b>10 Hours</b><br>
-<b>-  enginerdmath</b> <a href="https://www.youtube.com/playlist?list=PLy8CVak7-Br7J0KMyYEfAZY8v4qDx6BYU">Algebra</a>, <b>68 Videos</b>, <b>20 Hours</b><br>
-<b>-  Adam Panagos</b> <a href="https://www.youtube.com/playlist?list=PLdciPPorsHuk3Hp7QPPAtTkpW0o1UXQB6">Linear Algebra Example Problems</a>, <b>65 Videos</b>, <b>5 Hours</b><br>
-<b>-  MathDoctorBob</b> <a href="https://www.youtube.com/playlist?list=PL774A268635BA8AAD">Linear Algebra</a>, <b>47 Videos</b>, <b>5 Hours</b><br>
-<b>-  MathDoctorBob</b> <a href="https://www.youtube.com/playlist?list=PL664672D0CBFE86EC">Matrix Theory</a>, <b>35 Videos</b>, <b>5 Hours</b><br>
-<b>-  MathDoctorBob</b> <a href="https://www.youtube.com/playlist?list=PLnkl-SmACpdhIZnHAecRG36du2Oc2jiTs">Basic Algebraic Geometry</a>, <b>10 Videos</b>, <b>5 Hours</b><br>
-<b>-  MathDoctorBob</b> <a href="https://www.youtube.com/playlist?list=PLnkl-SmACpdgOgl_9RisU5zq9TfZ_Obgz">Basic College Algebra</a>, <b>29 Videos</b>, <b>5 Hours</b><br>
-<b>-  MathDoctorBob</b> <a href="https://www.youtube.com/playlist?list=PLnkl-SmACpdjo33IuQJyT156e4wemolcf">College Algebra (spring 2020)</a>, <b>33 Videos</b>, <b>10 Hours</b><br>
-<b>-  MathDoctorBob</b> <a href="https://www.youtube.com/playlist?list=PL40AF598389028CC5">Algebra 2/trig/geometry</a>, <b>12 Videos</b>, <b>5 Hours</b><br>
-<b>-  James Hamblin</b> <a href="https://www.youtube.com/playlist?list=PLNr8B4XHL5kGDHOrU4IeI6QNuZHur4F86">Linear Algebra Lectures</a>, <b>48 Videos</b>, <b>10 Hours</b><br>
-<b>-  Jeffrey Chasnov</b> <a href="https://www.youtube.com/playlist?list=PLkZjai-2Jcxlg-Z1roB0pUwFU-P58tvOx">Matrix Algebra for Engineers</a>, <b>39 Videos</b>, <b>10 Hours</b><br>
-<b>-  James Hamblin</b> <a href="https://www.youtube.com/playlist?list=PLNr8B4XHL5kEWw9YH2oFeYZCosj1qsBVi">Linear Algebra</a>, <b>6 Videos</b>, <b>5 Hours</b><br>
-<b>-  James Hamblin</b> <a href="https://www.youtube.com/playlist?list=PLNr8B4XHL5kE3Hk4p-wtZGplvo6LRKpUK">College Algebra</a>, <b>120 Videos</b>, <b>10 Hours</b><br>
-<b>-  Professor Macauley</b> <a href="https://www.youtube.com/playlist?list=PLwV-9DG53NDwKJIwF5sANj6Za7qZYywAq">Advanced Linear Algebra</a>, <b>19 Videos</b>, <b>10 Hours</b><br>
-
 <h3>-  Calculus</h3>
 <b>-  Khan Academy</b> <a href="https://www.youtube.com/playlist?list=PLSQl0a2vh4HB2viKg9dzd-js9hIRXB9Fm">Precalculus | Get Ready for Grade Level | Khan Academy</a>, <b>144 Videos</b>, <b>15 Hours</b><br>
 <b>-  Khan Academy</b> <a href="https://www.youtube.com/playlist?list=PL19E79A0638C8D449">Calculus</a>, <b>199 Videos</b>, <b>35 Hours</b><br>
@@ -168,6 +120,54 @@ Computer Science Playlists road map for computer science students, which includi
 <b>-  Jeffrey Chasnov</b> <a href="https://www.youtube.com/playlist?list=PLkZjai-2JcxnYmkg6fpzz4WFumGVl7MOa">Vector Calculus for Engineers</a>, <b>46 Videos</b>, <b>10 Hours</b><br>
 <b>-  James Hamblin</b> <a href="https://www.youtube.com/playlist?list=PLNr8B4XHL5kGAG_8vLF1o0G9RqrLN_tbj">Multivariable Calculus</a>, <b>37 Videos</b>, <b>5 Hours</b><br>
 <b>-  James Hamblin</b> <a href="https://www.youtube.com/playlist?list=PLNr8B4XHL5kFc8sV2RD5hU0MSjnJvAiiP">Calculus</a>, <b>77 Videos</b>, <b>15 Hours</b><br>
+
+<h3>-  Algebra</h3>
+<b>-  Khan Academy</b> <a href="https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0">Linear Algebra</a>, <b>144 Videos</b>, <b>40 Hours</b><br>
+<b>-  Khan Academy</b> <a href="https://www.youtube.com/playlist?list=PL7AF1C14AF1B05894">Algebra</a>, <b>92 Videos</b>, <b>15 Hours</b><br>
+<b>-  Khan Academy</b> <a href="https://www.youtube.com/playlist?list=PLSQl0a2vh4HDdl6PcjwZH2CkM5OoV6spg">Algebra 1 | Get Ready for Grade Level | Khan Academy</a>, <b>127 Videos</b>, <b>10 Hours</b><br>
+<b>-  Khan Academy</b> <a href="https://www.youtube.com/playlist?list=PLSQl0a2vh4HAB5mMeiG2DQy1FL5e9I4eg">Algebra 2 | Get Ready for Grade Level | Khan Academy</a>, <b>155 Videos</b>, <b>15 Hours</b><br>
+<b>-  3Blue1Brown</b> <a href="https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab">Essence of Linear Algebra</a>, <b>15 Videos</b>, <b>5 Hours</b><br>
+<b>-  MIT OpenCourseWare</b> <a href="https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C">MIT 18.06sc Linear Algebra, Fall 2011</a>, <b>74 Videos</b>, <b>40 Hours</b><br>
+<b>-  The Organic Chemistry Tutor</b> <a href="https://www.youtube.com/playlist?list=PL0o_zxa4K1BUeF2o-MlNpbRiS-oE2Kn6J">New Algebra Playlist</a>, <b>185 Videos</b>, <b>30 Hours</b><br>
+<b>-  The Organic Chemistry Tutor</b> <a href="https://www.youtube.com/playlist?list=PL0o_zxa4K1BWKL_6lYRmEaXY6OgZWGE8G">Algebra Playlist</a>, <b>88 Videos</b>, <b>25 Hours</b><br>
+<b>-  Team Lyqa</b> <a href="https://www.youtube.com/playlist?list=PLtQqxDEgSqMDTKlVW7kJ1e7HRUJ2TVs0h">Algebra</a>, <b>26 Videos</b>, <b>10 Hours</b><br>
+<b>-  Gate Lectures by Ravindrababu Ravula</b> <a href="https://www.youtube.com/playlist?list=PLEbnTDJUr_IdiveZ4bvOc1Oh2zEp7J8z6">Linear Algebra</a>, <b>31 Videos</b>, <b>5 Hours</b><br>
+<b>-  Michel van Biezen</b> <a href="https://www.youtube.com/playlist?list=PLX2gX-ftPVXVuWEutmvA163NoDCAhiWv2">Linear Algebra 1: Basic Concepts</a>, <b>35 Videos</b>, <b>5 Hours</b><br>
+<b>-  Michel van Biezen</b> <a href="https://www.youtube.com/playlist?list=PLX2gX-ftPVXUT6cBuDAjO2Z2XURDgdp8f">Linear Algebra 2: Determinants</a>, <b>48 Videos</b>, <b>5 Hours</b><br>
+<b>-  Michel van Biezen</b> <a href="https://www.youtube.com/playlist?list=PLX2gX-ftPVXXPJEenunQp5qujemZAFo-q">Algebra 0.5 Basic Concepts</a>, <b>26 Videos</b>, <b>5 Hours</b><br>
+<b>-  Michel van Biezen</b> <a href="https://www.youtube.com/playlist?list=PLX2gX-ftPVXXv7HYMGLy4iQ1jGw3GdUgS">Algebra 0.6 Basic Concepts</a>, <b>37 Videos</b>, <b>5 Hours</b><br>
+<b>-  Michel van Biezen</b> <a href="https://www.youtube.com/playlist?list=PLX2gX-ftPVXVZlKHFLsun6RMyhyYB_9pd">Algebra CH 1 Linear Equations</a>, <b>21 Videos</b>, <b>5 Hours</b><br>
+<b>-  Michel van Biezen</b> <a href="https://www.youtube.com/playlist?list=PLX2gX-ftPVXXzingf8nMjYiotn6zMb8cU">Algebra CH 2 Word Problems</a>, <b>46 Videos</b>, <b>5 Hours</b><br>
+<b>-  Michel van Biezen</b> <a href="https://www.youtube.com/playlist?list=PLX2gX-ftPVXXILNmjnirkAvoSfNPHOUuI">Algebra CH 3 Formulas, Inequalities, Absolute Values</a>, <b>33 Videos</b>, <b>5 Hours</b><br>
+<b>-  Michel van Biezen</b> <a href="https://www.youtube.com/playlist?list=PLX2gX-ftPVXV8Egh8GQFoB-4jjBjyn0jA">Algebra CH 4 Exponents AND Scientific Notation</a>, <b>36 Videos</b>, <b>5 Hours</b><br>
+<b>-  Michel van Biezen</b> <a href="https://www.youtube.com/playlist?list=PLX2gX-ftPVXWrfV8WHAgOhemX9AIMzwQE">Algebra CH 5 Polynomials</a>, <b>31 Videos</b>, <b>5 Hours</b><br>
+<b>-  Michel van Biezen</b> <a href="https://www.youtube.com/playlist?list=PLX2gX-ftPVXV4Y94FabLahogXkfWHxOK7">Algebra CH 6 Factoring</a>, <b>54 Videos</b>, <b>5 Hours</b><br>
+<b>-  Michel van Biezen</b> <a href="https://www.youtube.com/playlist?list=PLX2gX-ftPVXWViYj6zAZ6QB9zyZ8a_nry">Algebra CH 7 Factoring Practice Problems</a>, <b>22 Videos</b>, <b>5 Hours</b><br>
+<b>-  Michel van Biezen</b> <a href="https://www.youtube.com/playlist?list=PLX2gX-ftPVXU1VuxdokBccoTa5G_slM1i">Algebra CH 8 Solving Quadratic Equations With Factoring</a>, <b>21 Videos</b>, <b>5 Hours</b><br>
+<b>-  Michel van Biezen</b> <a href="https://www.youtube.com/playlist?list=PLX2gX-ftPVXV1oqNmS_hr6DNpSHnW_bnA">Algebra CH 9 Solving Word Problems With Factoring</a>, <b>17 Videos</b>, <b>5 Hours</b><br>
+<b>-  Professor Leonard</b> <a href="https://www.youtube.com/playlist?list=PLC292123722B1B450">Intermediate Algebra (full Length Videos)</a>, <b>46 Videos</b>, <b>45 Hours</b><br>
+<b>-  Professor Leonard</b> <a href="https://www.youtube.com/playlist?list=PL4C9296DF81B9EF13">Prealgebra (full Length Videos)</a>, <b>44 Videos</b>, <b>35 Hours</b><br>
+<b>-  Math Meeting</b> <a href="https://www.youtube.com/playlist?list=PL06E9BCF3F9327B21">Algebra - Logarithm playlist</a>, <b>4 Videos</b>, <b>1 Hours</b><br>
+<b>-  Math Meeting</b> <a href="https://www.youtube.com/playlist?list=PLAA7AE4A6F75229C2">Algebra - Factoring playlist</a>, <b>7 Videos</b>, <b>5 Hours</b><br>
+<b>-  Math Meeting</b> <a href="https://www.youtube.com/playlist?list=PLDF1EE75CA880D618">Algebra - Inequalities playlist</a>, <b>7 Videos</b>, <b>1 Hours</b><br>
+<b>-  Math Meeting</b> <a href="https://www.youtube.com/playlist?list=PLF606E8667617F16B">Algebra - Equation of a line playlist</a>, <b>5 Videos</b>, <b>1 Hours</b><br>
+<b>-  NancyPi</b> <a href="https://www.youtube.com/playlist?list=PL3j1ntBPCU_rS8v_Nbifh9uBX2GTgPwcB">Algebra</a>, <b>11 Videos</b>, <b>5 Hours</b><br>
+<b>-  NancyPi</b> <a href="https://www.youtube.com/playlist?list=PL3j1ntBPCU_r6fSJ7PQJXrze85bXa8oE3">Algebra 2</a>, <b>16 Videos</b>, <b>5 Hours</b><br>
+<b>-  NancyPi</b> <a href="https://www.youtube.com/playlist?list=PL3j1ntBPCU_qTxYvPjtWXG3-T1XaKvJjV">Solving Systems of Equations</a>, <b>2 Videos</b>, <b>1 Hours</b><br>
+<b>-  TheTrevTutor</b> <a href="https://www.youtube.com/playlist?list=PLDDGPdw7e6AjJacaEe9awozSaOou-NIx_">Linear Algebra</a>, <b>51 Videos</b>, <b>10 Hours</b><br>
+<b>-  enginerdmath</b> <a href="https://www.youtube.com/playlist?list=PLy8CVak7-Br7J0KMyYEfAZY8v4qDx6BYU">Algebra</a>, <b>68 Videos</b>, <b>20 Hours</b><br>
+<b>-  Adam Panagos</b> <a href="https://www.youtube.com/playlist?list=PLdciPPorsHuk3Hp7QPPAtTkpW0o1UXQB6">Linear Algebra Example Problems</a>, <b>65 Videos</b>, <b>5 Hours</b><br>
+<b>-  MathDoctorBob</b> <a href="https://www.youtube.com/playlist?list=PL774A268635BA8AAD">Linear Algebra</a>, <b>47 Videos</b>, <b>5 Hours</b><br>
+<b>-  MathDoctorBob</b> <a href="https://www.youtube.com/playlist?list=PL664672D0CBFE86EC">Matrix Theory</a>, <b>35 Videos</b>, <b>5 Hours</b><br>
+<b>-  MathDoctorBob</b> <a href="https://www.youtube.com/playlist?list=PLnkl-SmACpdhIZnHAecRG36du2Oc2jiTs">Basic Algebraic Geometry</a>, <b>10 Videos</b>, <b>5 Hours</b><br>
+<b>-  MathDoctorBob</b> <a href="https://www.youtube.com/playlist?list=PLnkl-SmACpdgOgl_9RisU5zq9TfZ_Obgz">Basic College Algebra</a>, <b>29 Videos</b>, <b>5 Hours</b><br>
+<b>-  MathDoctorBob</b> <a href="https://www.youtube.com/playlist?list=PLnkl-SmACpdjo33IuQJyT156e4wemolcf">College Algebra (spring 2020)</a>, <b>33 Videos</b>, <b>10 Hours</b><br>
+<b>-  MathDoctorBob</b> <a href="https://www.youtube.com/playlist?list=PL40AF598389028CC5">Algebra 2/trig/geometry</a>, <b>12 Videos</b>, <b>5 Hours</b><br>
+<b>-  James Hamblin</b> <a href="https://www.youtube.com/playlist?list=PLNr8B4XHL5kGDHOrU4IeI6QNuZHur4F86">Linear Algebra Lectures</a>, <b>48 Videos</b>, <b>10 Hours</b><br>
+<b>-  Jeffrey Chasnov</b> <a href="https://www.youtube.com/playlist?list=PLkZjai-2Jcxlg-Z1roB0pUwFU-P58tvOx">Matrix Algebra for Engineers</a>, <b>39 Videos</b>, <b>10 Hours</b><br>
+<b>-  James Hamblin</b> <a href="https://www.youtube.com/playlist?list=PLNr8B4XHL5kEWw9YH2oFeYZCosj1qsBVi">Linear Algebra</a>, <b>6 Videos</b>, <b>5 Hours</b><br>
+<b>-  James Hamblin</b> <a href="https://www.youtube.com/playlist?list=PLNr8B4XHL5kE3Hk4p-wtZGplvo6LRKpUK">College Algebra</a>, <b>120 Videos</b>, <b>10 Hours</b><br>
+<b>-  Professor Macauley</b> <a href="https://www.youtube.com/playlist?list=PLwV-9DG53NDwKJIwF5sANj6Za7qZYywAq">Advanced Linear Algebra</a>, <b>19 Videos</b>, <b>10 Hours</b><br>
 
 <h3>-  Differential Equations</h3>
 <b>-  Khan Academy</b> <a href="https://www.youtube.com/playlist?list=PL96AE8D9C68FEB902">Differential Equations</a>, <b>45 Videos</b>, <b>10 Hours</b><br>
@@ -243,6 +243,82 @@ Computer Science Playlists road map for computer science students, which includi
 </details>
 <details>
 	<summary>Probability and Statistics Playlists</summary>
+
+<h3>-  Statistics</h3>
+<b>-  The Organic Chemistry Tutor</b> <a href="https://www.youtube.com/playlist?list=PL0o_zxa4K1BVsziIRdfv4Hl4UIqDZhXWV">Statistics</a>, <b>69 Videos</b>, <b>20 Hours</b><br>
+<b>-  Harvard University</b> <a href="https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo">Statistics 110: Probability</a>, <b>35 Videos</b>, <b>30 Hours</b><br>
+<b>-  Michel van Biezen</b> <a href="https://www.youtube.com/playlist?list=PLX2gX-ftPVXUWwTzAkOhBdhplvz0fByqV">Probability & Statistics 1 Basics</a>, <b>63 Videos</b>, <b>5 Hours</b><br>
+<b>-  Mathematics Class X</b> <a href="https://www.youtube.com/playlist?list=PLSYQ3WiyH7wySk3pLPZ-wF1EbzsotIjIB">Probability - CBSE Class 10 Mathematics</a>, <b>39 Videos</b>, <b>5 Hours</b><br>
+<b>-  Mathematics Class X</b> <a href="https://www.youtube.com/playlist?list=PLSYQ3WiyH7wwqEQJiDGljkd6jbRDcpBWm">Statistics - Mathematics Class 10 CBSE</a>, <b>25 Videos</b>, <b>5 Hours</b><br>
+<b>-  Mathematics Class X</b> <a href="https://www.youtube.com/playlist?list=PLSYQ3WiyH7wwwDnLg0DwlwEuymchR4h_7">Probability - R D Sharma Class 10 Mathematics</a>, <b>10 Videos</b>, <b>1 Hours</b><br>
+<b>-  Mathematics Class X</b> <a href="https://www.youtube.com/playlist?list=PLSYQ3WiyH7wwXFai0RvWzzpOemJM8PtEc">Statistics - R D Sharma, Mathematics Class 10</a>, <b>3 Videos</b>, <b>1 Hours</b><br>
+<b>-  Professor Leonard</b> <a href="https://www.youtube.com/playlist?list=PL5102DFDC6790F3D0">Statistics (Full Length Videos)</a>, <b>28 Videos</b>, <b>15 Hours</b><br>
+<b>-  Professor Leonard</b> <a href="https://www.youtube.com/playlist?list=PL5901C68C96DFCAD1">Statistics Playlist 1</a>, <b>149 Videos</b>, <b>40 Hours</b><br>
+<b>-  Math Meeting</b> <a href="https://www.youtube.com/playlist?list=PLlSMUHu9g2KQ3SAofPJTr-AYYBQi5SWVT">Statistics</a>, <b>7 Videos</b>, <b>5 Hours</b><br>
+<b>-  StatQuest with Josh Starmer</b> <a href="https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9">Statistics Fundamentals</a>, <b>43 Videos</b>, <b>10 Hours</b><br>
+<b>-  Advanced Placement</b> <a href="https://www.youtube.com/playlist?list=PLoGgviqq4845u-QDW3bikMhC4uQsuYDpy">AP Statistics</a>, <b>33 Videos</b>, <b>25 Hours</b><br>
+<b>-  MarinStatsLectures-R Programming & Statistics</b> <a href="https://www.youtube.com/playlist?list=PLqzoL9-eJTNBZDG8jaNuhap1C9q6VHyVa">Statistics Course for Data Science |  Data Analytics</a>, <b>50 Videos</b>, <b>10 Hours</b><br>
+<b>-  MarinStatsLectures-R Programming & Statistics</b> <a href="https://www.youtube.com/playlist?list=PLqzoL9-eJTNAB5st3mtP_bmXafGSH1Dtz">Statistics Course for Beginners: Introduction to Statistics</a>, <b>51 Videos</b>, <b>10 Hours</b><br>
+<b>-  MarinStatsLectures-R Programming & Statistics</b> <a href="https://www.youtube.com/playlist?list=PLqzoL9-eJTND5VuIjTDtcKilOrxRWc-i5">Statistical Inference Concept |Statistics for Beginners</a>, <b>15 Videos</b>, <b>5 Hours</b><br>
+<b>-  Khan Academy Probability and Statistics</b> <a href="https://www.youtube.com/playlist?list=PLU5aQXLWR3_xDN0M2ZeZ_zHIia0e42_3O">Statistics 1</a>, <b>19 Videos</b>, <b>5 Hours</b><br>
+<b>-  Simple Learning Pro</b> <a href="https://www.youtube.com/playlist?list=PL0KQuRyPJoe6KjlUM6iNYgt8d0DwI-IGR">Random variables and probability distributions | Probability and Statistics</a>, <b>25 Videos</b>, <b>5 Hours</b><br>
+<b>-  Khan Academy Probability and Statistics</b> <a href="https://www.youtube.com/playlist?list=PLU5aQXLWR3_wDJi9fDQar3GQVfZD4SlbX">Probability and combinatorics | Probability and Statistics</a>, <b>27 Videos</b>, <b>5 Hours</b><br>
+<b>-  Khan Academy Probability and Statistics</b> <a href="https://www.youtube.com/playlist?list=PLU5aQXLWR3_yYS0ZYRA-5g5YSSYLNZ6Mc">Descriptive statistics | Probability and Statistics</a>, <b>24 Videos</b>, <b>5 Hours</b><br>
+<b>-  Khan Academy Probability and Statistics</b> <a href="https://www.youtube.com/playlist?list=PLU5aQXLWR3_za0hcdZH2b28MkIXSyHOE2">Inferential statistics | Probability and Statistics</a>, <b>39 Videos</b>, <b>10 Hours</b><br>
+<b>-  Khan Academy Probability and Statistics</b> <a href="https://www.youtube.com/playlist?list=PLU5aQXLWR3_wuWOWMA-8aPLhp4p3sZdK2">Regression | Probability and Statistics</a>, <b>18 Videos</b>, <b>5 Hours</b><br>
+<b>-  Khan Academy Probability and Statistics</b> <a href="https://www.youtube.com/playlist?list=PLU5aQXLWR3_zDq9QnnC6QWY0C-cFtSr4C">Statistical studies | Probability and Statistics</a>, <b>12 Videos</b>, <b>5 Hours</b><br>
+<b>-  MrArnoldsMaths</b> <a href="https://www.youtube.com/playlist?list=PLdFZZXxW0z8sG0jmmaIIGXrXXcqi7PjLm">A Level Statistics 1</a>, <b>23 Videos</b>, <b>5 Hours</b><br>
+
+<h3>-  Probability</h3>
+<b>-  Khan Academy</b> <a href="https://www.youtube.com/playlist?list=PL1328115D3D8A2566">Statistics</a>, <b>67 Videos</b>, <b>15 Hours</b><br>
+<b>-  Khan Academy</b> <a href="https://www.youtube.com/playlist?list=PLC58778F28211FA19">Probability</a>, <b>41 Videos</b>, <b>10 Hours</b><br>
+<b>-  Khan Academy</b> <a href="https://www.youtube.com/playlist?list=PLU5aQXLWR3_x1bjE2rbvRn8sse81AUYZk">Independent and dependent events | Probability and Statistics | Khan Academy</a>, <b>29 Videos</b>, <b>5 Hours</b><br>
+<b>-  Khan Academy</b> <a href="https://www.youtube.com/playlist?list=PLSQl0a2vh4HDl0hgK8nIBgBjLji5Eu9ar">Inferential statistics | Probability and Statistics | Khan Academy</a>, <b>39 Videos</b>, <b>10 Hours</b><br>
+<b>-  Khan Academy</b> <a href="https://www.youtube.com/playlist?list=PLSQl0a2vh4HDGASZE0AAY5rMpTXBUs1hs">Exploring Data</a>, <b>15 Videos</b>, <b>5 Hours</b><br>
+<b>-  Khan Academy</b> <a href="https://www.youtube.com/playlist?list=PLSQl0a2vh4HAe6mF7lbA6GA-5R4-IPAmM">Summarizing quantitative data | AP Statistics | Khan Academy</a>, <b>21 Videos</b>, <b>5 Hours</b><br>
+<b>-  Khan Academy</b> <a href="https://www.youtube.com/playlist?list=PLSQl0a2vh4HCdm-4ReSAtuQvpplkwIuT2">High school statistics | High School Math | Khan Academy</a>, <b>62 Videos</b>, <b>5 Hours</b><br>
+<b>-  MIT OpenCourseWare</b> <a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6">MIT RES.6-012 Introduction to Probability, Spring 2018</a>, <b>266 Videos</b>, <b>25 Hours</b><br>
+<b>-  MIT OpenCourseWare</b> <a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8">6.041 Probabilistic Systems Analysis and Applied Probability</a>, <b>25 Videos</b>, <b>20 Hours</b><br>
+<b>-  MIT OpenCourseWare</b> <a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe">MIT 6.041SC Probabilistic Systems Analysis and Applied Probability, Fall 2013</a>, <b>76 Videos</b>, <b>35 Hours</b><br>
+<b>-  MIT OpenCourseWare</b> <a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0">MIT 18.650 Statistics for Applications, Fall 2016</a>, <b>22 Videos</b>, <b>25 Hours</b><br>
+<b>-  Brandon Foltz</b> <a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-KqNeLQVhw8yv9MI5dd0ky_">Statistics PL01 - Data and Statistics</a>, <b>1 Videos</b>, <b>1 Hours</b><br>
+<b>-  Brandon Foltz</b> <a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-K82r1fgL-DO1xKg133PXKh">Statistics PL02 - Descriptive Statistics I</a>, <b>10 Videos</b>, <b>5 Hours</b><br>
+<b>-  Brandon Foltz</b> <a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-JMH5fGDWhtniyET88Mexcw">Statistics PL03 - Descriptive Statistics II</a>, <b>8 Videos</b>, <b>5 Hours</b><br>
+<b>-  Brandon Foltz</b> <a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-I9m4otjYGCQL_1m0Edm0LA">Statistics PL04 - Introduction to Probability</a>, <b>14 Videos</b>, <b>5 Hours</b><br>
+<b>-  Brandon Foltz</b> <a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-LWd2IOW1wveszJXy_aHytX">Statistics PL05 - Discrete Probability Distributions</a>, <b>13 Videos</b>, <b>5 Hours</b><br>
+<b>-  Brandon Foltz</b> <a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-KdqFkNrED9w8j9dEMMLj7e">Statistics PL06 - Continuous Probability Distributions</a>, <b>5 Videos</b>, <b>5 Hours</b><br>
+<b>-  Brandon Foltz</b> <a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-KdXH-P5N4hMFoyYjbaRiR0">Statistics PL07 - Sampling and Sampling Distributions</a>, <b>6 Videos</b>, <b>5 Hours</b><br>
+<b>-  Brandon Foltz</b> <a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-KkhLBDGW3Jp3ThPAEQvMfk">Statistics PL08 - Confidence Interval Estimation</a>, <b>4 Videos</b>, <b>5 Hours</b><br>
+<b>-  Brandon Foltz</b> <a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-IZRHcZcOy12jp7ywuRbE7l">Statistics PL09 - Hypothesis Testing</a>, <b>14 Videos</b>, <b>10 Hours</b><br>
+<b>-  Brandon Foltz</b> <a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-LrjxQ60pxZaimkaKKs0zGF">Statistics PL10 - Z-tests, T-tests for Two Populations</a>, <b>3 Videos</b>, <b>5 Hours</b><br>
+<b>-  Brandon Foltz</b> <a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-JLAfWM-EB2cTtLRhDWiZwD">Statistics PL11 - Inferences about Population Variances</a>, <b>5 Videos</b>, <b>5 Hours</b><br>
+<b>-  Brandon Foltz</b> <a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-J1zwbVOInWdlKBG3AVmXxJ">Statistics PL12 - Goodness of Fit and Independence Tests</a>, <b>3 Videos</b>, <b>5 Hours</b><br>
+<b>-  Brandon Foltz</b> <a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-KA-BLkL391X__r0kU4_hm5">Statistics PL13 - ANOVA (ANalysis Of VAriance)</a>, <b>10 Videos</b>, <b>5 Hours</b><br>
+<b>-  Brandon Foltz</b> <a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-LoKUpV0fSY8BGKIMIdmfCi">Statistics PL14 - Simple Linear Regression</a>, <b>12 Videos</b>, <b>5 Hours</b><br>
+<b>-  Brandon Foltz</b> <a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-IqjoU8IiF0Yu1WtxNq_4z-">Statistics PL15 - Multiple Linear Regression</a>, <b>7 Videos</b>, <b>5 Hours</b><br>
+<b>-  Brandon Foltz</b> <a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-JmBQ9XoFD4rs-b3hkcX7Uu">Statistics PL16 - Logistic Regression</a>, <b>6 Videos</b>, <b>5 Hours</b><br>
+<b>-  Brandon Foltz</b> <a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-LnuBJ7TayqusxOERwpTvAv">Statistics PL17 - ANCOVA (ANalysis of COVAriance)</a>, <b>3 Videos</b>, <b>1 Hours</b><br>
+<b>-  Brandon Foltz</b> <a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-KE0M1r5cjbC_7Q_dVlKVq4">Statistics PL18 - Nonlinear Regression</a>, <b>4 Videos</b>, <b>5 Hours</b><br>
+<b>-  Brandon Foltz</b> <a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-IV0Yf8AyeMgmNkpFBxBJlh">Statistics PL19 - Nonparametric Methods</a>, <b>9 Videos</b>, <b>5 Hours</b><br>
+<b>-  Brandon Foltz</b> <a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-KwtuGE4kKONQHILQiL31qZ">Statistics PL20 - Model Building and the General Linear Model (GLM)</a>, <b>7 Videos</b>, <b>5 Hours</b><br>
+<b>-  Brandon Foltz</b> <a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-KxMqY8wJ0KoY3ujxf0C856">Finite Mathematics</a>, <b>31 Videos</b>, <b>10 Hours</b><br>
+<b>-  UCI Open</b> <a href="https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7l-ML8sMNFHx0CY7jyudZq2">Introduction to Probability and Statistics 131A</a>, <b>17 Videos</b>, <b>25 Hours</b><br>
+<b>-  UCI Open</b> <a href="https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7k-j-86QUC2_0nEu0QOP-Wy">Introduction to Probability and Statistics 131B</a>, <b>16 Videos</b>, <b>25 Hours</b><br>
+<b>-  UCI Open</b> <a href="https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7n6XnvxxsWfxFtYf0Xj479J">Math 131A: Introduction to Probability and Statistics</a>, <b>17 Videos</b>, <b>25 Hours</b><br>
+<b>-  UCI Open</b> <a href="https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7kcLcp0qHUDOp6f5JKmA8Aq">Math 131B: Introduction to Probability and Statistics</a>, <b>16 Videos</b>, <b>25 Hours</b><br>
+<b>-  jbstatistics</b> <a href="https://www.youtube.com/playlist?list=PLvxOuBpazmsNIHP5cz37oOPZx0JKyNszN">Discrete Probability Distributions</a>, <b>13 Videos</b>, <b>5 Hours</b><br>
+<b>-  jbstatistics</b> <a href="https://www.youtube.com/playlist?list=PLvxOuBpazmsNo893xlpXNfMzVpRBjDH67">Hypothesis Testing</a>, <b>16 Videos</b>, <b>5 Hours</b><br>
+<b>-  jbstatistics</b> <a href="https://www.youtube.com/playlist?list=PLvxOuBpazmsPDZGwqhhjE3KkLWnTD34R0">Continuous Probability Distributions</a>, <b>10 Videos</b>, <b>5 Hours</b><br>
+<b>-  jbstatistics</b> <a href="https://www.youtube.com/playlist?list=PLvxOuBpazmsMdPBRxBTvwLv5Lhuk0tuXh">Confidence Intervals for a Population Mean</a>, <b>10 Videos</b>, <b>5 Hours</b><br>
+<b>-  jbstatistics</b> <a href="https://www.youtube.com/playlist?list=PLvxOuBpazmsND0vmkP1ECjTloiVz-pXla">Simple Linear Regression</a>, <b>12 Videos</b>, <b>5 Hours</b><br>
+<b>-  jbstatistics</b> <a href="https://www.youtube.com/playlist?list=PLvxOuBpazmsOGOursPoofaHyz_1NpxbhA">Basics of Probability</a>, <b>7 Videos</b>, <b>5 Hours</b><br>
+<b>-  jbstatistics</b> <a href="https://www.youtube.com/playlist?list=PLvxOuBpazmsNqPdvhkF_l55tHdDNW3z-7">One-Way ANOVA (Analysis of Variance)</a>, <b>5 Videos</b>, <b>1 Hours</b><br>
+<b>-  jbstatistics</b> <a href="https://www.youtube.com/playlist?list=PLvxOuBpazmsN0jpds3sD1vHmAlw5XFKx-">Inference for Two Population Means</a>, <b>8 Videos</b>, <b>5 Hours</b><br>
+<b>-  jbstatistics</b> <a href="https://www.youtube.com/playlist?list=PLvxOuBpazmsP7UN00cNZX64N1o_8635ds">Sampling Distributions</a>, <b>3 Videos</b>, <b>1 Hours</b><br>
+<b>-  jbstatistics</b> <a href="https://www.youtube.com/playlist?list=PLvxOuBpazmsMNIgaarUNmvs70sAjiPeVM">Inference for Variances</a>, <b>10 Videos</b>, <b>5 Hours</b><br>
+<b>-  jbstatistics</b> <a href="https://www.youtube.com/playlist?list=PLvxOuBpazmsOXoys_s9qkbspk_BlOtWcW">Inference for Proportions</a>, <b>6 Videos</b>, <b>5 Hours</b><br>
+<b>-  jbstatistics</b> <a href="https://www.youtube.com/playlist?list=PLvxOuBpazmsN5B0UrQaASorbf2v2KqGSt">Chi-square Tests for Count Data</a>, <b>4 Videos</b>, <b>1 Hours</b><br>
+<b>-  jbstatistics</b> <a href="https://www.youtube.com/playlist?list=PLvxOuBpazmsPuOFtb3lgcFHyXBqP1--B6">Using a Standard Normal Table</a>, <b>5 Videos</b>, <b>1 Hours</b><br>
 
 </details>
 <details>
