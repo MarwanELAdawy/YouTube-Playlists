@@ -4,7 +4,7 @@
 Computer Science Playlists road map for computer science students, which including the following main topics:
 
 <details>
-	<summary>C/C++ Programming Language and Object Oriented Playlists</summary>
+	<summary>Python Programming Language and Object Oriented Playlists</summary>
 
 <h3>-  Introduction to Computer Science</h3>
 <b>-  MIT OpenCourseWare</b> <a href="https://www.youtube.com/playlist?list=PLB2BE3D6CA77BB8F7">MIT 6.00SC Introduction to Computer Science and Programming</a>, <b>38 Videos</b>, <b>35 Hours</b><br>
@@ -37,7 +37,7 @@ Computer Science Playlists road map for computer science students, which includi
 
 </details>
 <details>
-	<summary>Python Programming Language and Object Oriented Playlists</summary>
+	<summary>C/C++ Programming Language and Object Oriented Playlists</summary>
 
 </details>
 <details>
