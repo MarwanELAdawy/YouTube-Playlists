@@ -39,6 +39,30 @@ Computer Science Playlists road map for computer science students, which includi
 <details>
 	<summary>C/C++ Programming Language and Object Oriented Playlists</summary>
 
+<h3>-  Introduction to Computer Science</h3>
+<b>-  MIT OpenCourseWare</b> <a href="https://www.youtube.com/playlist?list=PLB2BE3D6CA77BB8F7">MIT 6.00SC Introduction to Computer Science and Programming</a>, <b>38 Videos</b>, <b>35 Hours</b><br>
+<b>-  freeCodeCamp.org</b> <a href="https://www.youtube.com/playlist?list=PLWKjhJtqVAbmGw5fN5BQlwuug-8bDmabi">Introduction to Computer Science - Harvard's CS50</a>, <b>9 Videos</b>, <b>20 Hours</b><br>
+<b>-  Tutorials Point (India) Ltd.</b> <a href="https://www.youtube.com/playlist?list=PLWPirh4EWFpF_2T13UeEgZWZHc8nHBuXp">Computer Fundamentals</a>, <b>48 Videos</b>, <b>5 Hours</b><br>
+<b>-  Advanced Placement</b> <a href="https://www.youtube.com/playlist?list=PLoGgviqq4844vbwcKegJgIxSQyVHDzSXT">AP Computer Science Principles</a>, <b>10 Videos</b>, <b>5 Hours</b><br>
+<b>-  Edupedia World</b> <a href="https://www.youtube.com/playlist?list=PLJumA3phskPG9W5-B5AadXzl-SdvtStfW">Computer Science (Grade 8): Introduction to Computers</a>, <b>22 Videos</b>, <b>5 Hours</b><br>
+<b>-  MrBrownCS</b> <a href="https://www.youtube.com/playlist?list=PL04uZ7242_M5R4J79nzuq4u7GT6_WYv1M">Cambridge A Level Computer Science: Theory Fundamentals</a>, <b>27 Videos</b>, <b>5 Hours</b><br>
+<b>-  Computer Education For all</b> <a href="https://www.youtube.com/playlist?list=PLYsKWjcnp5DKS0wdoYR2FA0gt25jjBAlV">Introduction to Computers Complete Tutorials</a>, <b>13 Videos</b>, <b>5 Hours</b><br>
+
+<h3>-  C++, Object Oriented</h3>
+<b>-  thenewboston</b> <a href="https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83">C++ Programming Tutorials Playlist</a>, <b>73 Videos</b>, <b>15 Hours</b><br>
+<b>-  ProgrammingKnowledge</b> <a href="https://www.youtube.com/playlist?list=PLS1QulWo1RIZiBcTr5urECberTITj7gjA">QT C++ GUI Tutorial For Beginners</a>, <b>56 Videos</b>, <b>15 Hours</b><br>
+<b>-  ProgrammingKnowledge</b> <a href="https://www.youtube.com/playlist?list=PLS1QulWo1RIYSyC6w2-rDssprPrEsgtVK">C++ Programming Tutorial for Beginners (For Absolute Beginners)</a>, <b>91 Videos</b>, <b>25 Hours</b><br>
+<b>-  Naresh i Technologies</b> <a href="https://www.youtube.com/playlist?list=PLVlQHNRLflP8_DGKcMoRw-TYJJALgGu4J">C++ Programming Language | C++ Tutorial</a>, <b>79 Videos</b>, <b>20 Hours</b><br>
+<b>-  CodeWithHarry</b> <a href="https://www.youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL">C++ Tutorials In Hindi</a>, <b>72 Videos</b>, <b>25 Hours</b><br>
+<b>-  easytuts4you</b> <a href="https://www.youtube.com/playlist?list=PLiOa6ike4WAEnWjWsLN6FDOApS9ED6x7v">C++ Programming Tutorials (HINDI/URDU)</a>, <b>89 Videos</b>, <b>25 Hours</b><br>
+<b>-  by The Cherno</b> <a href="https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb">C++</a>, <b>95 Videos</b>, <b>25 Hours</b><br>
+<b>-  Geeky Shows</b> <a href="https://www.youtube.com/playlist?list=PLbGui_ZYuhijXuOfBSdQgK296Y7wUDWLn">C++ Programming in Hindi</a>, <b>186 Videos</b>, <b>15 Hours</b><br>
+<b>-  Caleb Curry</b> <a href="https://www.youtube.com/playlist?list=PL_c9BZzLwBRJVJsIfe97ey45V4LP_HXiG">C++ Tutorials</a>, <b>102 Videos</b>, <b>10 Hours</b><br>
+<b>-  GeeksforGeeks</b> <a href="https://www.youtube.com/playlist?list=PLqM7alHXFySGg6GSRmE2INI4k8fPH5qVB">C++ Programming Language Tutorials</a>, <b>45 Videos</b>, <b>5 Hours</b><br>
+<b>-  C++ by Saurabh Shukla Sir</b> <a href="https://www.youtube.com/playlist?list=PLLYz8uHU480j37APNXBdPz7YzAi4XlQUF">C++ by Saurabh Shukla</a>, <b>74 Videos</b>, <b>20 Hours</b><br>
+<b>-  LearningLad</b> <a href="https://www.youtube.com/playlist?list=PLfVsf4Bjg79Cu5MYkyJ-u4SyQmMhFeC1C">Learn C++ Programming | Video Tutorial for Beginners</a>, <b>152 Videos</b>, <b>25 Hours</b><br>
+<b>-  Simple Snippets</b> <a href="https://www.youtube.com/playlist?list=PLIY8eNdw5tW_o8gsLqNBu8gmScCAqKm2Q">C++ Programming Tutorials for Beginners & IT students</a>, <b>53 Videos</b>, <b>10 Hours</b><br>
+
 </details>
 <details>
 	<summary>Mathematics and Discrete Mathematics Playlists</summary>
