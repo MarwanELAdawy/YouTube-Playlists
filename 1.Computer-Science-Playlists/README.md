@@ -20,8 +20,6 @@ Computer Science Playlists road map for computer science students, which includi
 		<tr>
 			<td rowspan=1 align=center>Tutorials Point (India) Ltd.</td>			<td><a href="https://www.youtube.com/playlist?list=PLWPirh4EWFpF_2T13UeEgZWZHc8nHBuXp">Computer Fundamentals</a></td>			<td align="center">48</td>			<td align="center">5</td>		</tr>
 		<tr>
-			<td rowspan=1 align=center>Advanced Placement</td>			<td><a href="https://www.youtube.com/playlist?list=PLoGgviqq4844vbwcKegJgIxSQyVHDzSXT">AP Computer Science Principles</a></td>			<td align="center">10</td>			<td align="center">5</td>		</tr>
-		<tr>
 			<td rowspan=1 align=center>Edupedia World</td>			<td><a href="https://www.youtube.com/playlist?list=PLJumA3phskPG9W5-B5AadXzl-SdvtStfW">Computer Science (Grade 8): Introduction to Computers</a></td>			<td align="center">22</td>			<td align="center">5</td>		</tr>
 		<tr>
 			<td rowspan=1 align=center>MrBrownCS</td>			<td><a href="https://www.youtube.com/playlist?list=PL04uZ7242_M5R4J79nzuq4u7GT6_WYv1M">Cambridge A Level Computer Science: Theory Fundamentals</a></td>			<td align="center">27</td>			<td align="center">5</td>		</tr>
@@ -93,8 +91,6 @@ Computer Science Playlists road map for computer science students, which includi
 			<td rowspan=1 align=center>freeCodeCamp.org</td>			<td><a href="https://www.youtube.com/playlist?list=PLWKjhJtqVAbmGw5fN5BQlwuug-8bDmabi">Introduction to Computer Science - Harvard's CS50</a></td>			<td align="center">9</td>			<td align="center">20</td>		</tr>
 		<tr>
 			<td rowspan=1 align=center>Tutorials Point (India) Ltd.</td>			<td><a href="https://www.youtube.com/playlist?list=PLWPirh4EWFpF_2T13UeEgZWZHc8nHBuXp">Computer Fundamentals</a></td>			<td align="center">48</td>			<td align="center">5</td>		</tr>
-		<tr>
-			<td rowspan=1 align=center>Advanced Placement</td>			<td><a href="https://www.youtube.com/playlist?list=PLoGgviqq4844vbwcKegJgIxSQyVHDzSXT">AP Computer Science Principles</a></td>			<td align="center">10</td>			<td align="center">5</td>		</tr>
 		<tr>
 			<td rowspan=1 align=center>Edupedia World</td>			<td><a href="https://www.youtube.com/playlist?list=PLJumA3phskPG9W5-B5AadXzl-SdvtStfW">Computer Science (Grade 8) Introduction to Computers</a></td>			<td align="center">22</td>			<td align="center">5</td>		</tr>
 		<tr>
