@@ -42,12 +42,6 @@ Computer Science Playlists road map for computer science students, which includi
 			<td align="center">5</td>
 		</tr>
 		<tr>
-			<td rowspan=1 align=center>Advanced Placement</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLoGgviqq4844vbwcKegJgIxSQyVHDzSXT">AP Computer Science Principles</a></td>
-			<td align="center">10</td>
-			<td align="center">5</td>
-		</tr>
-		<tr>
 			<td rowspan=1 align=center>Edupedia World</td>
 			<td><a href="https://www.youtube.com/playlist?list=PLJumA3phskPG9W5-B5AadXzl-SdvtStfW">Computer Science (Grade 8): Introduction to Computers</a></td>
 			<td align="center">22</td>
