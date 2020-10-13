@@ -30,12 +30,6 @@ Computer Science Playlists road map for computer science students, which includi
 			<td align="center">20</td>
 		</tr>
 		<tr>
-			<td rowspan=1 align=center>MrBrownCS</td>
-			<td><a href="https://www.youtube.com/playlist?list=PL04uZ7242_M5R4J79nzuq4u7GT6_WYv1M">Cambridge A Level Computer Science: Theory Fundamentals</a></td>
-			<td align="center">27</td>
-			<td align="center">3</td>
-		</tr>
-		<tr>
 			<td rowspan=1 align=center>Tutorials Point (India) Ltd.</td>
 			<td><a href="https://www.youtube.com/playlist?list=PLWPirh4EWFpF_2T13UeEgZWZHc8nHBuXp">Computer Fundamentals</a></td>
 			<td align="center">48</td>
@@ -46,6 +40,12 @@ Computer Science Playlists road map for computer science students, which includi
 			<td><a href="https://www.youtube.com/playlist?list=PLJumA3phskPG9W5-B5AadXzl-SdvtStfW">Computer Science (Grade 8): Introduction to Computers</a></td>
 			<td align="center">22</td>
 			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>MrBrownCS</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL04uZ7242_M5R4J79nzuq4u7GT6_WYv1M">Cambridge A Level Computer Science: Theory Fundamentals</a></td>
+			<td align="center">27</td>
+			<td align="center">3</td>
 		</tr>
 		<tr>
 			<td rowspan=1 align=center>Computer Education For all</td>
@@ -82,6 +82,182 @@ Computer Science Playlists road map for computer science students, which includi
 			<td><a href="https://www.youtube.com/playlist?list=PLffLKBjSzxT_0-jbwym7NyG6hpN7faov5">Number System | Quantitative Aptitude</a></td>
 			<td align="center">81</td>
 			<td align="center">15</td>
+		</tr>
+	</tbody>
+	</table>
+
+<h3>-  MS Office</h3>
+<table>
+	<thead>
+		<tr>
+			<th width="30%">Channel</th>
+			<th width="70%">Playlist</th>
+			<th>Videos</th>
+			<th>H</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td rowspan=1 align=center>Tutorials Point (India) Ltd</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLWPirh4EWFpHyWP7u5HOrr4s2-bycPpO6">MS Word</a></td>
+			<td align="center">35</td>
+			<td align="center">3</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>GCFLearnFree.org</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLpQQipWcxwt-CU7fh1_3v-STktoEc0tsL">Microsoft Word 2016</a></td>
+			<td align="center">31</td>
+			<td align="center">3</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>GCFLearnFree.org</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLpQQipWcxwt_E_071Lff_CWb4mVWeTEf9">Microsoft Word 2013</a></td>
+			<td align="center">31</td>
+			<td align="center">3</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>GCFLearnFree.org</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLpQQipWcxwt85bD079KkDtIJBMBwaU2TK">Microsoft Word</a></td>
+			<td align="center">46</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Technology for Teachers and Students</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL_iwD7O7FG7iZ_Ammd16DtJyIyyGEHKga">Microsoft Word</a></td>
+			<td align="center">20</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Simon Sez IT</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLzj7TwUeMQ3gLcSQaxPMW_vma_z3xiwF1">Microsoft Word 2016 Training Tutorials for Beginners</a></td>
+			<td align="center">24</td>
+			<td align="center">3</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Simon Sez IT</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLzj7TwUeMQ3jkkDD_N-nRHQTp9oX7Smam">Microsoft Word 2013 Tutorials for Beginners</a></td>
+			<td align="center">20</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Sali Kaceli</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLyy-LLqj7iSaJMld0s7pBYwYueC_xURcX">Word 2016 Tutorials by Sali Kaceli</a></td>
+			<td align="center">25</td>
+			<td align="center">3</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Professor Adam Morgan</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLeH4ngtDM7eG7i7xnCoRQyIyqjuDZS50q">Word 2016 Tutorial Playlist for Beginners</a></td>
+			<td align="center">86</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>GCFLearnFree.org</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLpQQipWcxwt_VOb7MMU_24Sp_EDKUIkru">Microsoft PowerPoint 2016</a></td>
+			<td align="center">34</td>
+			<td align="center">3</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>GCFLearnFree.org</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLpQQipWcxwt_KvhjMTsADzon_GY_vBGRL">Microsoft PowerPoint</a></td>
+			<td align="center">52</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Technology for Teachers and Students</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL_iwD7O7FG7g4pUk1A5eeRG9MWqVe7FAX">PowerPoint</a></td>
+			<td align="center">20</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>GCFLearnFree.org</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLpQQipWcxwt80GgHQBPtO7fZrH7zgb-kH">Microsoft PowerPoint 2013</a></td>
+			<td align="center">33</td>
+			<td align="center">3</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Simon Sez IT</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLzj7TwUeMQ3gVSn_Ih9RPMW99qJXSGoBA">Microsoft PowerPoint 2016 Course - Master PowerPoint</a></td>
+			<td align="center">10</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Simon Sez IT</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLzj7TwUeMQ3gX0kiJc3k8d31y0zTLcECq">Microsoft PowerPoint 2013 Tutorials for Beginners</a></td>
+			<td align="center">22</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Veon Aprova Logo</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL_DY_GacFOIeHz-k5tEjlp8e6YnXCqG3q">PowerPoint Concursos</a></td>
+			<td align="center">26</td>
+			<td align="center">3</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Professor Adam Morgan</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLeH4ngtDM7eEnIW0rtCHBEI-JpuGd4urr">PowerPoint 2016 Tutorials Playlist- Learn How To Use PowerPoint</a></td>
+			<td align="center">57</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Tutorials Point (India) Ltd</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLWPirh4EWFpEpO6NjjWLbKSCb-wx3hMql">MS-Excel</a></td>
+			<td align="center">103</td>
+			<td align="center">20</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>GCFLearnFree.org</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLpQQipWcxwt9kEYnMTd8nBuRxC3LFmera">Microsoft Excel 2016</a></td>
+			<td align="center">29</td>
+			<td align="center">3</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>GCFLearnFree.org</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLpQQipWcxwt_wKeFEmZL15qOZEkiVUQAq">Microsoft Excel</a></td>
+			<td align="center">49</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Computers adda</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLL3zPWMHgpV0AWL3fW7TNgXm5TD-CTP1a">Ms-Excel 2016</a></td>
+			<td align="center">55</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Simon Sez IT</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLzj7TwUeMQ3jUeMoLReqNzzuKj7rdLhZ2">Microsoft Excel 2016 Training Tutorials for Beginners</a></td>
+			<td align="center">21</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>The Teacher</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLwBNdcufIBPvS995rj_60AaQ9VVXaSGvX">Microsoft Excel 2016 Tutorial</a></td>
+			<td align="center">44</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Simon Sez IT</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLzj7TwUeMQ3h5ZVxzp_a4UHRQBtXXgnxf">Microsoft Excel 2016 Training Tutorials for Beginners, Intermediate and Advanced Users</a></td>
+			<td align="center">19</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Simon Sez IT</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLzj7TwUeMQ3hzyKexLt4YW-AaIUPeiCen">Microsoft Excel 2016 Advanced Training Tutorials</a></td>
+			<td align="center">17</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Professor Adam Morgan</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLeH4ngtDM7eHrRhWGlfyXBqQ20P5E49gu">Excel 2016 Tutorials for Beginners - Learn How To Use Functions and Formulas -Microsoft Office Specialist Exam Tutorial Practice Playlist</a></td>
+			<td align="center">64</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Rodrigo Schaeffer</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLKaxXxugagVvU_w0Qoe92CIBA4TMaXDkW">Excel 2016 Concursos</a></td>
+			<td align="center">27</td>
+			<td align="center">10</td>
 		</tr>
 	</tbody>
 	</table>
@@ -260,7 +436,7 @@ Computer Science Playlists road map for computer science students, which includi
 			<td align="center">5</td>
 		</tr>
 	</tbody>
-</table>
+	</table>
 
 <h3>-  Discrete Mathematics</h3>
 <table>
@@ -274,16 +450,22 @@ Computer Science Playlists road map for computer science students, which includi
 	</thead>
 	<tbody>
 		<tr>
-			<td rowspan=1 align=center>James Hamblin</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLNr8B4XHL5kHuVKyyzj7QshcT9yzPc_8J">Discrete Mathematics</a></td>
-			<td align="center">18</td>
-			<td align="center">3</td>
+			<td rowspan=1 align=center>The Organic Chemistry Tutor</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL0o_zxa4K1BWLRgHW2i8diQ359U5FbKnI">SAT Math</a></td>
+			<td align="center">47</td>
+			<td align="center">15</td>
 		</tr>
 		<tr>
 			<td rowspan=1 align=center>Neso Academy</td>
 			<td><a href="https://www.youtube.com/playlist?list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3">Discrete Mathematics</a></td>
 			<td align="center">51</td>
 			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>TheTrevTutor</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz">Discrete Math 1</a></td>
+			<td align="center">71</td>
+			<td align="center">15</td>
 		</tr>
 		<tr>
 			<td rowspan=1 align=center>TheTrevTutor</td>
@@ -304,27 +486,21 @@ Computer Science Playlists road map for computer science students, which includi
 			<td align="center">10</td>
 		</tr>
 		<tr>
-			<td rowspan=1 align=center>The Organic Chemistry Tutor</td>
-			<td><a href="https://www.youtube.com/playlist?list=PL0o_zxa4K1BWLRgHW2i8diQ359U5FbKnI">SAT Math</a></td>
-			<td align="center">47</td>
-			<td align="center">15</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align=center>TheTrevTutor</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz">Discrete Math 1</a></td>
-			<td align="center">71</td>
-			<td align="center">15</td>
-		</tr>
-		<tr>
 			<td rowspan=1 align=center>Professor Macauley</td>
 			<td><a href="https://www.youtube.com/playlist?list=PLwV-9DG53NDz3zpkmsYx3BLzTAP6FyHeg">Discrete Mathematical Structures</a></td>
 			<td align="center">30</td>
 			<td align="center">15</td>
 		</tr>
+		<tr>
+			<td rowspan=1 align=center>James Hamblin</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLNr8B4XHL5kHuVKyyzj7QshcT9yzPc_8J">Discrete Mathematics</a></td>
+			<td align="center">18</td>
+			<td align="center">3</td>
+		</tr>
 	</tbody>
-</table>
+	</table>
 
-<h3>-  Math Basic II</h3>
+<h3>-  Math Basics II</h3>
 <table>
 	<thead>
 		<tr>
