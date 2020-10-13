@@ -86,7 +86,7 @@ Computer Science Playlists road map for computer science students, which includi
 	</tbody>
 	</table>
 
-<h3>-  MS Office</h3>
+<h3>-  MS Office Word</h3>
 <table>
 	<thead>
 		<tr>
@@ -151,6 +151,20 @@ Computer Science Playlists road map for computer science students, which includi
 			<td align="center">86</td>
 			<td align="center">10</td>
 		</tr>
+	</tbody>
+	</table>
+
+<h3>-  MS Office Power Point</h3>
+<table>
+	<thead>
+		<tr>
+			<th width="30%">Channel</th>
+			<th width="70%">Playlist</th>
+			<th>Videos</th>
+			<th>H</th>
+		</tr>
+	</thead>
+	<tbody>
 		<tr>
 			<td rowspan=1 align=center>GCFLearnFree.org</td>
 			<td><a href="https://www.youtube.com/playlist?list=PLpQQipWcxwt_VOb7MMU_24Sp_EDKUIkru">Microsoft PowerPoint 2016</a></td>
@@ -199,6 +213,20 @@ Computer Science Playlists road map for computer science students, which includi
 			<td align="center">57</td>
 			<td align="center">5</td>
 		</tr>
+	</tbody>
+	</table>
+
+<h3>-  MS Office Excel</h3>
+<table>
+	<thead>
+		<tr>
+			<th width="30%">Channel</th>
+			<th width="70%">Playlist</th>
+			<th>Videos</th>
+			<th>H</th>
+		</tr>
+	</thead>
+	<tbody>
 		<tr>
 			<td rowspan=1 align=center>Tutorials Point (India) Ltd</td>
 			<td><a href="https://www.youtube.com/playlist?list=PLWPirh4EWFpEpO6NjjWLbKSCb-wx3hMql">MS-Excel</a></td>
