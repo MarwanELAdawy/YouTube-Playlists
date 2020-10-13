@@ -6,8 +6,8 @@ YouTube playlists road map for computer science students.
 ## [1. Computer-Science-Playlists](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/1.Computer-Science-Playlists)
 Computer Science Playlists road map for computer science students, which including the following main topics:
 
-### 1.1- Python Programming Language and Object Oriented Playlists
-### 1.2- C/C++ Programming Language and Object Oriented Playlists
+### 1.1- Introduction to Computer Science Playlists
+### 1.2- Programming Languages and Object Oriented Playlists
 ### 1.3- Mathematics and Discrete Mathematics Playlists
 ### 1.4- Probability and Statistics Playlists
 ### 1.5- Logic Design Playlists
