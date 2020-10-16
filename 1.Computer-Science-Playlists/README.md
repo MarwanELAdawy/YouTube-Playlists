@@ -83,6 +83,18 @@ Computer Science Playlists road map for computer science students, which includi
 			<td align="center">81</td>
 			<td align="center">15</td>
 		</tr>
+		<tr>
+			<td rowspan=1 align=center>Unknown</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLMQ4k-hUWGNl-_4tGH-2Gq-06yZbzl5az">Flowchart Tutorials</a></td>
+			<td align="center">10</td>
+			<td align="center">1</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Unknown</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLnjnebhbRnHRDeeNzgSF7li16tR0ygzM1">Raptor Flowcharts Tutorials</a></td>
+			<td align="center">19</td>
+			<td align="center">5</td>
+		</tr>
 	</tbody>
 	</table>
 
@@ -265,7 +277,7 @@ Computer Science Playlists road map for computer science students, which includi
 		</tr>
 		<tr>
 			<td rowspan=1 align=center>Simon Sez IT</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLzj7TwUeMQ3h5ZVxzp_a4UHRQBtXXgnxf">Microsoft Excel 2016 Training Tutorials for Beginners, Intermediate and Advanced Users</a></td>
+			<td><a href="https://www.youtube.com/playlist?list=PLzj7TwUeMQ3h5ZVxzp_a4UHRQBtXXgnxf">Microsoft Excel 2016 Training Tutorials for Beginners</a></td>
 			<td align="center">19</td>
 			<td align="center">5</td>
 		</tr>
@@ -277,7 +289,7 @@ Computer Science Playlists road map for computer science students, which includi
 		</tr>
 		<tr>
 			<td rowspan=1 align=center>Professor Adam Morgan</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLeH4ngtDM7eHrRhWGlfyXBqQ20P5E49gu">Excel 2016 Tutorials for Beginners - Learn How To Use Functions and Formulas -Microsoft Office Specialist Exam Tutorial Practice Playlist</a></td>
+			<td><a href="https://www.youtube.com/playlist?list=PLeH4ngtDM7eHrRhWGlfyXBqQ20P5E49gu">Excel 2016 Tutorials for Beginners - Learn How To Use Functions and Formulas</a></td>
 			<td align="center">64</td>
 			<td align="center">5</td>
 		</tr>
