@@ -2451,6 +2451,128 @@ Computer Science Playlists road map for computer science students, which includi
 <details>
 	<summary>Theory of Computations and Computer Architecture and Organization Playlists</summary>
 
+<h3>-  Theory of Computation</h3>
+<table>
+	<thead>
+		<tr>
+			<th width="30%">Channel</th>
+			<th width="70%">Playlist</th>
+			<th>Videos</th>
+			<th>H</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td rowspan=1 align=center>nptelhrd</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLbMVogVj5nJSd25WnSU144ZyGmsqjuKr3">Computer Science - Theory of Computation</a></td>
+			<td align="center">42</td>
+			<td align="center">45</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Neso Academy</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev">Theory of Computation & Automata Theory</a></td>
+			<td align="center">114</td>
+			<td align="center">20</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Gate Lectures by Ravindrababu Ravula</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLEbnTDJUr_IdM___FmDFBJBz0zCsOFxfK">Theory of Computation or Automata Theory</a></td>
+			<td align="center">72</td>
+			<td align="center">20</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>KNOWLEDGE GATE</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLmXKhU9FNesSdCsn6YQqu9DmXRMsYdZ2T">7 – TOC | HINDI | TOFL | AUTOMATA | THEORY OF COMPUTATION</a></td>
+			<td align="center">105</td>
+			<td align="center">20</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Easy Engineering Classes</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLV8vIYTIdSnZYVUJ6duL_ulTsmVQmmd74">TOC in Hindi</a></td>
+			<td align="center">47</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Education 4u</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLrjkTql3jnm_TWSXXvWX1_jX-L6f1QJSx">Theory of Computation ( TOC )</a></td>
+			<td align="center">96</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Gate Smashers</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLxCzCOWd7aiFM9Lj5G9G_76adtyb4ef7i">TOC(Theory of Computation)</a></td>
+			<td align="center">56</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Well Academy</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL9zFgBale5ftkr9FLajMBN2R4jlEM_hxY">Theory of Computation GATE Lectures</a></td>
+			<td align="center">67</td>
+			<td align="center">20</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>DigiiMento: GATE, NTA NET & Other CSE Exam Prep</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLS8ACsmFCpmQ7aMtE2tG9mhYYor0BQ-Hn">Theory of Computation</a></td>
+			<td align="center">43</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Unacademy Computer Science</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLG9aCp4uE-s1P6Z73Gbbh-kdDWwq5Bg7f">Theory Of Computation (TOC) | GATE/ESE CSE & IT Engineering</a></td>
+			<td align="center">63</td>
+			<td align="center">65</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Gate Instructors</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLXVjll7-2kRnUeE2TSBGlaGbm4aNIcZLJ">DFA NFA Examples | Problems Solution Tutorial | Automata Theory or Theory of computation</a></td>
+			<td align="center">43</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>NTA UGC NET Computer Science CSE</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLayxKQoyjT383MJ2A2TGNlALVGnr5VPgh">Theory of computation</a></td>
+			<td align="center">20</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>UC Davis</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLslgisHe5tBM8UTCt1f66oMkpmjCblzkt">Theory of Computation - Fall 2011</a></td>
+			<td align="center">22</td>
+			<td align="center">25</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Purple Hat Institute</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLNUrArhKbyAJ_s3NYwgNF8aNH254jHEvK">TOC: Theory Of Computation</a></td>
+			<td align="center">17</td>
+			<td align="center">3</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>CSE GURUS</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLYT7YDstBQmHSRKrNApTqquo2FRlMsoHw">FORMAL LANGUAGES AND AUTOMATA THEORY</a></td>
+			<td align="center">42</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>hhp3</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLbtzT1TYeoMjNOGEiaRmm_vMIwUAidnQz">Theory of Computation</a></td>
+			<td align="center">65</td>
+			<td align="center">20</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Coderisland</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL601FC994BDD963E4">Introduction to the Theory of Computation</a></td>
+			<td align="center">128</td>
+			<td align="center">25</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>UC Davis Academics</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL_w_qWAQZtAYRxrBXDwlSGo5tgm7bXJqW">Theory of Computation - Fall 2011</a></td>
+			<td align="center">27</td>
+			<td align="center">30</td>
+		</tr>
+	</tbody>
+</table>
+
 </details>
 <details>
 	<summary>Concepts of Programming Languages and Compilers Playlists</summary>
