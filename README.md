@@ -10,7 +10,7 @@ Computer Science Playlists road map for computer science students, which includi
 #### 1.2- Programming Languages and Object Oriented Playlists
 #### 1.3- Mathematics and Discrete Mathematics Playlists
 #### 1.4- Probability and Statistics Playlists
-#### 1.5- Logic Design Playlists
+#### 1.5- Electronics and Logic Design Playlists
 #### 1.6- Data Structures and Algorithms Playlists
 #### 1.7- Operating Systems and Parallel Computing and Distributed Systems Playlists
 #### 1.8- Theory of Computations and Computer Architecture and Organization Playlists
