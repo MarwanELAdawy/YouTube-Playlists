@@ -2099,7 +2099,7 @@ Computer Science Playlists road map for computer science students, which includi
 
 </details>
 <details>
-	<summary>Logic Design Playlists</summary>
+	<summary>Electronics and Logic Design Playlists</summary>
 
 </details>
 <details>
