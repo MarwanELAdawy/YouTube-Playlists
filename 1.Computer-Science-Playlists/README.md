@@ -478,68 +478,6 @@ Computer Science Playlists road map for computer science students, which includi
 	</tbody>
 	</table>
 
-<h3>-  Discrete Mathematics</h3>
-<table>
-	<thead>
-		<tr>
-			<th width="30%">Channel</th>
-			<th width="70%">Playlist</th>
-			<th>Videos</th>
-			<th>H</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td rowspan=1 align=center>The Organic Chemistry Tutor</td>
-			<td><a href="https://www.youtube.com/playlist?list=PL0o_zxa4K1BWLRgHW2i8diQ359U5FbKnI">SAT Math</a></td>
-			<td align="center">47</td>
-			<td align="center">15</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align=center>Neso Academy</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3">Discrete Mathematics</a></td>
-			<td align="center">51</td>
-			<td align="center">5</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align=center>TheTrevTutor</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz">Discrete Math 1</a></td>
-			<td align="center">71</td>
-			<td align="center">15</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align=center>TheTrevTutor</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLDDGPdw7e6Aj0amDsYInT_8p6xTSTGEi2">Discrete Math 2</a></td>
-			<td align="center">38</td>
-			<td align="center">10</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align=center>TheTrevTutor</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLDDGPdw7e6Ah0e9VYg6ejkS4jRLKB2b2J">Introduction to Linguistics</a></td>
-			<td align="center">18</td>
-			<td align="center">5</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align=center>TheTrevTutor</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLDDGPdw7e6AhOute8PxF1qccHYGtFZdbl">Mathematical Linguistics</a></td>
-			<td align="center">35</td>
-			<td align="center">10</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align=center>Professor Macauley</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLwV-9DG53NDz3zpkmsYx3BLzTAP6FyHeg">Discrete Mathematical Structures</a></td>
-			<td align="center">30</td>
-			<td align="center">15</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align=center>James Hamblin</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLNr8B4XHL5kHuVKyyzj7QshcT9yzPc_8J">Discrete Mathematics</a></td>
-			<td align="center">18</td>
-			<td align="center">3</td>
-		</tr>
-	</tbody>
-	</table>
-
 <h3>-  Math Basics II</h3>
 <table>
 	<thead>
@@ -1004,6 +942,68 @@ Computer Science Playlists road map for computer science students, which includi
 </details>
 <details>
 	<summary>Mathematics and Discrete Mathematics Playlists</summary>
+
+<h3>-  Discrete Mathematics</h3>
+<table>
+	<thead>
+		<tr>
+			<th width="30%">Channel</th>
+			<th width="70%">Playlist</th>
+			<th>Videos</th>
+			<th>H</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td rowspan=1 align=center>The Organic Chemistry Tutor</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL0o_zxa4K1BWLRgHW2i8diQ359U5FbKnI">SAT Math</a></td>
+			<td align="center">47</td>
+			<td align="center">15</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Neso Academy</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3">Discrete Mathematics</a></td>
+			<td align="center">51</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>TheTrevTutor</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz">Discrete Math 1</a></td>
+			<td align="center">71</td>
+			<td align="center">15</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>TheTrevTutor</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLDDGPdw7e6Aj0amDsYInT_8p6xTSTGEi2">Discrete Math 2</a></td>
+			<td align="center">38</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>TheTrevTutor</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLDDGPdw7e6Ah0e9VYg6ejkS4jRLKB2b2J">Introduction to Linguistics</a></td>
+			<td align="center">18</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>TheTrevTutor</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLDDGPdw7e6AhOute8PxF1qccHYGtFZdbl">Mathematical Linguistics</a></td>
+			<td align="center">35</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Professor Macauley</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLwV-9DG53NDz3zpkmsYx3BLzTAP6FyHeg">Discrete Mathematical Structures</a></td>
+			<td align="center">30</td>
+			<td align="center">15</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>James Hamblin</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLNr8B4XHL5kHuVKyyzj7QshcT9yzPc_8J">Discrete Mathematics</a></td>
+			<td align="center">18</td>
+			<td align="center">3</td>
+		</tr>
+	</tbody>
+</table>
 
 <h3>-  Calculus</h3>
 <table>
