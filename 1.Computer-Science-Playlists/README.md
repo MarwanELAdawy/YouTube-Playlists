@@ -2101,140 +2101,6 @@ Computer Science Playlists road map for computer science students, which includi
 <details>
 	<summary>Electronics and Logic Design Playlists</summary>
 
-<h3>-  Logic Design</h3>
-<table>
-	<thead>
-		<tr>
-			<th width="30%">Channel</th>
-			<th width="70%">Playlist</th>
-			<th>Videos</th>
-			<th>H</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td rowspan=1 align=center>Tutorials Point (India) Ltd.</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLWPirh4EWFpHk70zwYoHu87uVsCC8E2S-">Digital Electronics for GATE</a></td>
-			<td align="center">255</td>
-			<td align="center">45</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align=center>Tutorials Point (India) Ltd.</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLWPirh4EWFpF-MvxXBIfX8vCIb8kBXcbd">Sequential Circuit Design</a></td>
-			<td align="center">32</td>
-			<td align="center">3</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align=center>nptelhr</td>
-			<td><a href="https://www.youtube.com/playlist?list=PL803563859BF7ED8C">Electronics - Digital Circuits and Systems</a></td>
-			<td align="center">40</td>
-			<td align="center">35</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align=center>Tutorials Point (India) Ltd.</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLWPirh4EWFpHL7ezpTD0hhk4cEVP3Yi6i">Analog Circuits for GATE</a></td>
-			<td align="center">46</td>
-			<td align="center">5</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align=center>Neso Academy</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm">Digital Electronics</a></td>
-			<td align="center">203</td>
-			<td align="center">35</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align=center>Neso Academy</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb">GATE Solved Problems - Digital Electronics</a></td>
-			<td align="center">38</td>
-			<td align="center">5</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align=center>Gate Lectures by Ravindrababu Ravula</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLEbnTDJUr_Ica5kK6UypsWpf95Ut2sK3o">DIGITAL LOGIC</a></td>
-			<td align="center">36</td>
-			<td align="center">10</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align=center>Education 4u</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLrjkTql3jnm-D9tTkJ5WszA0hPLvTTQ-o">Switching theory & Logic Design ( STLD )</a></td>
-			<td align="center">70</td>
-			<td align="center">15</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align=center>THE GATE ACADEMY</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLPq2PKgitBOJLUtQRrUTHZU-piB0Eyzm9">Digital Circuits | Free Lectures for GATE Exam</a></td>
-			<td align="center">37</td>
-			<td align="center">25</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align=center>Simple Snippets</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLIY8eNdw5tW-yJHsxApeilNjX2Dkll-Ox">Boolean Algebra, Logic Gates & K-Maps</a></td>
-			<td align="center">44</td>
-			<td align="center">10</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align=center>IIT Kharagpur July 2018</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLbRMhDVUMngfV8C6ElNAUaQQz06wEhFM5">Switching Circuits and Logic Design by Prof. Indranil Sengupta</a></td>
-			<td align="center">61</td>
-			<td align="center">30</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align=center>Kreatryx GATE - EE, ECE, IN</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLs5_Rtf2P2r50v54DrvgTiSN2oz6xwrkq">Digital Electronics - GATE</a></td>
-			<td align="center">6</td>
-			<td align="center">1</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align=center>Unacademy Computer Science</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLG9aCp4uE-s2T7f-E82roVvamsvYrFKjQ">SWITCHING THEORY AND LOGIC DESIGN</a></td>
-			<td align="center">85</td>
-			<td align="center">15</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align=center>Unacademy Flux</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLnPUHuqVn2scKrIqvca6zv33CWT5Fk4ER">DIGITAL CIRCUITS FOR GATE 2019</a></td>
-			<td align="center">86</td>
-			<td align="center">30</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align=center>CodeNMore</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLah6faXAgguOeMUIxS22ZU4w5nDvCl5gs">Beginner Electronics</a></td>
-			<td align="center">31</td>
-			<td align="center">3</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align=center>GATE ACADEMY GLOBAL</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLb2wGSuEdRG9jC8G8B1DhEWf5OFGy2sqR">Digital Electronics</a></td>
-			<td align="center">40</td>
-			<td align="center">15</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align=center>G Centrick</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLhuphP2dsOLgQM2fWLW7RpjnLSeZI9tIF">Digital Electronics Full Course for GATE</a></td>
-			<td align="center">66</td>
-			<td align="center">25</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align=center>Intel FPGA</td>
-			<td><a href="https://www.youtube.com/playlist?list=PL0pU5hg9yniZ2ka-XBXROXNR0pAEAEFCB">FPGA Design</a></td>
-			<td align="center">186</td>
-			<td align="center">50</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align=center>Darshan Institute of Engineering & Technology</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLftJ4X48yC1nRU3-6h0P30rWoT-hznf74">Computer Organization</a></td>
-			<td align="center">53</td>
-			<td align="center">5</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align=center>Bright Future Tutorials</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLRcsiskhR4NsQ-oRqD8NePfI0N3ERJ99o">Digital Electronics Tutorial</a></td>
-			<td align="center">87</td>
-			<td align="center">10</td>
-		</tr>
-	</tbody>
-	</table>
-
 <h3>-  Electronics and Digital Circuits</h3>
 <table>
 	<thead>
@@ -2374,6 +2240,140 @@ Computer Science Playlists road map for computer science students, which includi
 		</tr>
 	</tbody>
 </table>
+
+<h3>-  Logic Design</h3>
+<table>
+	<thead>
+		<tr>
+			<th width="30%">Channel</th>
+			<th width="70%">Playlist</th>
+			<th>Videos</th>
+			<th>H</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td rowspan=1 align=center>Tutorials Point (India) Ltd.</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLWPirh4EWFpHk70zwYoHu87uVsCC8E2S-">Digital Electronics for GATE</a></td>
+			<td align="center">255</td>
+			<td align="center">45</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Tutorials Point (India) Ltd.</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLWPirh4EWFpF-MvxXBIfX8vCIb8kBXcbd">Sequential Circuit Design</a></td>
+			<td align="center">32</td>
+			<td align="center">3</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>nptelhr</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL803563859BF7ED8C">Electronics - Digital Circuits and Systems</a></td>
+			<td align="center">40</td>
+			<td align="center">35</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Tutorials Point (India) Ltd.</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLWPirh4EWFpHL7ezpTD0hhk4cEVP3Yi6i">Analog Circuits for GATE</a></td>
+			<td align="center">46</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Neso Academy</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm">Digital Electronics</a></td>
+			<td align="center">203</td>
+			<td align="center">35</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Neso Academy</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLBlnK6fEyqRiHqaYKYVtjQh4o4oXkXZMb">GATE Solved Problems - Digital Electronics</a></td>
+			<td align="center">38</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Gate Lectures by Ravindrababu Ravula</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLEbnTDJUr_Ica5kK6UypsWpf95Ut2sK3o">DIGITAL LOGIC</a></td>
+			<td align="center">36</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Education 4u</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLrjkTql3jnm-D9tTkJ5WszA0hPLvTTQ-o">Switching theory & Logic Design ( STLD )</a></td>
+			<td align="center">70</td>
+			<td align="center">15</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>THE GATE ACADEMY</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLPq2PKgitBOJLUtQRrUTHZU-piB0Eyzm9">Digital Circuits | Free Lectures for GATE Exam</a></td>
+			<td align="center">37</td>
+			<td align="center">25</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Simple Snippets</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLIY8eNdw5tW-yJHsxApeilNjX2Dkll-Ox">Boolean Algebra, Logic Gates & K-Maps</a></td>
+			<td align="center">44</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>IIT Kharagpur July 2018</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLbRMhDVUMngfV8C6ElNAUaQQz06wEhFM5">Switching Circuits and Logic Design by Prof. Indranil Sengupta</a></td>
+			<td align="center">61</td>
+			<td align="center">30</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Kreatryx GATE - EE, ECE, IN</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLs5_Rtf2P2r50v54DrvgTiSN2oz6xwrkq">Digital Electronics - GATE</a></td>
+			<td align="center">6</td>
+			<td align="center">1</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Unacademy Computer Science</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLG9aCp4uE-s2T7f-E82roVvamsvYrFKjQ">SWITCHING THEORY AND LOGIC DESIGN</a></td>
+			<td align="center">85</td>
+			<td align="center">15</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Unacademy Flux</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLnPUHuqVn2scKrIqvca6zv33CWT5Fk4ER">DIGITAL CIRCUITS FOR GATE 2019</a></td>
+			<td align="center">86</td>
+			<td align="center">30</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>CodeNMore</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLah6faXAgguOeMUIxS22ZU4w5nDvCl5gs">Beginner Electronics</a></td>
+			<td align="center">31</td>
+			<td align="center">3</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>GATE ACADEMY GLOBAL</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLb2wGSuEdRG9jC8G8B1DhEWf5OFGy2sqR">Digital Electronics</a></td>
+			<td align="center">40</td>
+			<td align="center">15</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>G Centrick</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLhuphP2dsOLgQM2fWLW7RpjnLSeZI9tIF">Digital Electronics Full Course for GATE</a></td>
+			<td align="center">66</td>
+			<td align="center">25</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Intel FPGA</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL0pU5hg9yniZ2ka-XBXROXNR0pAEAEFCB">FPGA Design</a></td>
+			<td align="center">186</td>
+			<td align="center">50</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Darshan Institute of Engineering & Technology</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLftJ4X48yC1nRU3-6h0P30rWoT-hznf74">Computer Organization</a></td>
+			<td align="center">53</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Bright Future Tutorials</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLRcsiskhR4NsQ-oRqD8NePfI0N3ERJ99o">Digital Electronics Tutorial</a></td>
+			<td align="center">87</td>
+			<td align="center">10</td>
+		</tr>
+	</tbody>
+	</table>
 
 </details>
 <details>
