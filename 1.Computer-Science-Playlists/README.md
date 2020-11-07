@@ -2725,6 +2725,134 @@ Computer Science Playlists road map for computer science students, which includi
 <details>
 	<summary>Theory of Computations and Computer Architecture and Organization Playlists</summary>
 
+<h3>-  Computer Architecture and Organization</h3>
+<table>
+	<thead>
+		<tr>
+			<th width="30%">Channel</th>
+			<th width="70%">Playlist</th>
+			<th>Videos</th>
+			<th>H</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td rowspan=1 align=center>Tutorials Point (India) Ltd.</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLWPirh4EWFpF0FVeBgL75d1RlASn4sGoz">Computer Organization</a></td>
+			<td align="center">109</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>nptelhrd</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL59E5B57A04EAE09C">Computer Sc - Computer Architecture</a></td>
+			<td align="center">38</td>
+			<td align="center">30</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Gate Lectures by Ravindrababu Ravula</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLEbnTDJUr_IdI9QZ7bkrhMX2ZpNW0dZUo">Computer organisation</a></td>
+			<td align="center">9</td>
+			<td align="center">3</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Easy Engineering Classes</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLV8vIYTIdSnar4uzz-4TIlgyFJ2m18NE3">Computer Organization and Architecture Lectures in Hindi</a></td>
+			<td align="center">1000</td>
+			<td align="center">250</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Gate Smashers</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLxCzCOWd7aiHMonh3G6QNKq53C6oNXGrX">Computer Organization and Architecture</a></td>
+			<td align="center">62</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Education 4u</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLrjkTql3jnm8AcFgkc5TE_yQgeHEuKYrG">Computer Organization and Architecture(COA)</a></td>
+			<td align="center">70</td>
+			<td align="center">20</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>5 Minutes Engineering</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLYwpaL_SFmcCaiXeUEjcTzHwIfJqH1qCN">Computer Organization and Architecture</a></td>
+			<td align="center">12</td>
+			<td align="center">3</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Unacademy Computer Science</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLG9aCp4uE-s3WzvFW1nI-7hHWNC8s2RdI">Computer Organization & Architecture (COA) | GATE (CSE/IT) Engineering</a></td>
+			<td align="center">52</td>
+			<td align="center">55</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>DigiiMento: GATE, NTA NET & Other CSE Exam Prep</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLS8ACsmFCpmQokMD2nJK84NYz3-5xK3J9">Computer Architecture and Organization</a></td>
+			<td align="center">18</td>
+			<td align="center">3</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Semesters Simplified</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLgBlB7BVKQmg__8dTZOkHBSj4WDRgZ4vX">Computer Organisation & Architecture</a></td>
+			<td align="center">25</td>
+			<td align="center">3</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>PacketPrep</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLPiOSvowot1Ky0_OiXzpA0vU09iI06lQb">Computer Organization for Gate</a></td>
+			<td align="center">22</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Carnegie Mellon Computer Architecture</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq">Spring 2015 -- Computer Architecture Lectures -- Carnegie Mellon</a></td>
+			<td align="center">39</td>
+			<td align="center">65</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>asha khilrani</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLz8TdOA7NTzQNlzLxRfsv2KexBzRSn3MF">Computer organization and architecture - COA</a></td>
+			<td align="center">87</td>
+			<td align="center">15</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>asha khilrani</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLz8TdOA7NTzSOHaom_1AGQNrVeAzI3GIM">Advance Computer Architecture (ACA)</a></td>
+			<td align="center">67</td>
+			<td align="center">15</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Darshan Institute of Engineering & Technology</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLftJ4X48yC1nRU3-6h0P30rWoT-hznf74">Computer Organization</a></td>
+			<td align="center">53</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Applied Course</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLEVDNf7p-wYxh7kE4mmdbqPB38r2AI3Nc">Computer Organization & Architecture</a></td>
+			<td align="center">14</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Onur Mutlu Lectures</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL5Q2soXY2Zi_FRrloMa2fUYWPGiZUBQo2">Digital Design & Computer Architecture - ETH Zürich (Spring 2020)</a></td>
+			<td align="center">38</td>
+			<td align="center">20</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Onur Mutlu Lectures</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL5Q2soXY2Zi-DyoI3HbqcdtUm9YWRR_z-">Computer Architecture - ETH Zürich - Fall 2019</a></td>
+			<td align="center">39</td>
+			<td align="center">100</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Bilkent Online Courses</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLhwVAYxlh5dvB1MkZrcRZy6x_a2yORNAu">CS-224 Computer Organization</a></td>
+			<td align="center">47</td>
+			<td align="center">35</td>
+		</tr>
+	</tbody>
+	</table>
+
 <h3>-  Theory of Computation</h3>
 <table>
 	<thead>
