@@ -17,7 +17,7 @@ Computer Science Playlists road map for computer science students, which includi
 #### 1.9- Compilers and Parallel Computing and Distributed Systems Playlists
 
 **SKILLS YOU WILL GAIN:**<br>
-`computer science`, `discrete mathematics`, `mathematics`, `probability`, `statistics`, `python programming`, `c++ programming`, `c programming`, `c++ object oriented programming (oop)`, `python object oriented programming (oop)`, `logic design`, `data structures`, `algorithms`, `advanced data Structures`, `advanced algorithms`, `theory of computations`, `compiler`, `concepts of programming languages`, `computer architecture`, `computer organization`
+`computer science`, `discrete mathematics`, `mathematics`, `probability`, `statistics`, `python programming`, `c++ programming`, `c programming`, `c++ object oriented programming (oop)`, `python object oriented programming (oop)`, `electronics`, `logic design`, `data structures`, `algorithms`, `advanced data Structures`, `advanced algorithms`, `theory of computations`, `compiler`, `concepts of programming languages`, `computer architecture`, `computer organization`, `parallel processing`, `parallel computing`, `distributed systems`, `operating systems`, `shell scripting`
 
 ## [2. Artificial-Intelligence-Playlists](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/2.Artificial-Intelligence-Playlists)
 Artificial Intelligence Playlists road map for computer science students, which including the following main topics:
