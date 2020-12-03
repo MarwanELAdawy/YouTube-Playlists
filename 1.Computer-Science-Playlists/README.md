@@ -2721,6 +2721,262 @@ Computer Science Playlists road map for computer science students, which includi
 <details>
 	<summary>Operating Systems and Shell Scripting Playlists</summary>
 
+<h3>-  Operating Systems</h3>
+<table>
+	<thead>
+		<tr>
+			<th width="30%">Channel</th>
+			<th width="70%">Playlist</th>
+			<th>Videos</th>
+			<th>H</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td rowspan=1 align=center>Tutorials Point (India) Ltd.</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLWPirh4EWFpGkHH9JTKH9KsnfAA471Fhy">Operating System</a></td>
+			<td align="center">93</td>
+			<td align="center">15</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Neso Academy</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O">Operating System</a></td>
+			<td align="center">58</td>
+			<td align="center">15</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Gate Lectures by Ravindrababu Ravula</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLEbnTDJUr_If_BnzJkkN_J0Tl3iXTL8vq">Operating Systems</a></td>
+			<td align="center">34</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>KNOWLEDGE GATE</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLmXKhU9FNesSFvj6gASuWmQd23Ul5omtD">OPERATING SYSTEM OS IN HINDI</a></td>
+			<td align="center">144</td>
+			<td align="center">25</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Easy Engineering Classes</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLV8vIYTIdSnZ67NQObdXE0gFjrzPrNKHp">Operating System</a></td>
+			<td align="center">65</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Udacity</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLAwxTw4SYaPkKfusBLVfklgfdcB3BNpwX">Advanced Operating Systems Part 1 of 4</a></td>
+			<td align="center">149</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Udacity</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLAwxTw4SYaPm4vV1XbFV93ZuT2saSq1hO">Advanced Operating Systems Part 2 of 4</a></td>
+			<td align="center">150</td>
+			<td align="center">15</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Udacity</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLAwxTw4SYaPk5-YaXFkWY4UXdv6pVdiYg">Advanced Operating Systems Part 3 of 4</a></td>
+			<td align="center">131</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Udacity</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLAwxTw4SYaPmfaiuzJcK3tNoeKlvRR990">Advanced Operating Systems Part 4 of 4</a></td>
+			<td align="center">119</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Gate Smashers</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p">Operating System</a></td>
+			<td align="center">85</td>
+			<td align="center">15</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Education 4u</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLrjkTql3jnm9U1tSPnPQWQGIGNkUwBFv-">Operating Systems</a></td>
+			<td align="center">75</td>
+			<td align="center">15</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Jenny's lectures CS/IT NET&JRF</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLdo5W4Nhv31a5ucW_S1K3-x6ztBRD-Pna">Operating Systems</a></td>
+			<td align="center">31</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>LearnEveryone</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL9P1J9q3_9fNDbAvZoEwNbxNUlIJM-n0n">OPERATING SYSTEM HINDI CONCEPTS</a></td>
+			<td align="center">100</td>
+			<td align="center">35</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>LearnEveryone</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL9P1J9q3_9fOTGzsBCn0T2T5vHLdBcDq_">OPERATING SYSTEM CONCEPTS</a></td>
+			<td align="center">97</td>
+			<td align="center">20</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>5 Minutes Engineering</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLYwpaL_SFmcANxMtSMQvD3DizZq_DLyrV">System Programming And Operating System (SPOS)</a></td>
+			<td align="center">62</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>5 Minutes Engineering</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLYwpaL_SFmcD0LLrv7CXxSiO2gNJsoxpi">Operating System</a></td>
+			<td align="center">60</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Simple Snippets</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLIY8eNdw5tW_lHyageTADFKBt9weJXndE">CPU Scheduling Algorithms - Operating Systems</a></td>
+			<td align="center">7</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Simple Snippets</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLIY8eNdw5tW-BxRY0yK3fYTYVqytw8qhp">Paging & Page Replacement Algorithms - Operating Systems</a></td>
+			<td align="center">9</td>
+			<td align="center">3</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>saurabhschool</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLTZbNwgO5ebqnympIYe2GX4hjjsS9Psdm">Operating System</a></td>
+			<td align="center">27</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>TutorialsSpace- Er. Deepak Garg</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLL8qj6F8dGlSR4SolVHM2W_XtXCQOmu1v">Operating System Tutorials In Hindi By Deepak Garg</a></td>
+			<td align="center">146</td>
+			<td align="center">50</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Barbara Hecker</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL53FD88B185F9796F">Fall 2011 Operating Systems</a></td>
+			<td align="center">10</td>
+			<td align="center">15</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>TutorialsSpace- Er. Deepak Garg</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLL8qj6F8dGlSR4SolVHM2W_XtXCQOmu1v">Operating System Tutorials In Hindi By Deepak Garg</a></td>
+			<td align="center">146</td>
+			<td align="center">40</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>TutorialsSpace- Er. Deepak Garg</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLL8qj6F8dGlSPV_qLnkpjEdM2Z2wRobdr">Operating System Tutorials In HINDI</a></td>
+			<td align="center">42</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Focus Group</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL6S4aVVtKUksg8qyiDkUv85BwxfbU8B0x">Operating System Lecture</a></td>
+			<td align="center">69</td>
+			<td align="center">15</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>TutorialsSpace- Er. Deepak Garg</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLL8qj6F8dGlS4jZxioXYH-sZxdMQdMxYy">Operating System Lectures In Hindi</a></td>
+			<td align="center">146</td>
+			<td align="center">25</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>kashyap B</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLLDC70psjvq5hIT0kfr1sirNuees0NIbG">Operating Systems by P.K.Biswas Sir</a></td>
+			<td align="center">31</td>
+			<td align="center">25</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>intrigano</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL2jykFOD1AWY3Ot3HResh50JwdBdjilsq">Operating Systems</a></td>
+			<td align="center">103</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>itechnica</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL6aFkLM6Wp-pH-JAE1J94k2jZjwv9ZaBA">Operating Systems</a></td>
+			<td align="center">38</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>itechnica</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL6aFkLM6Wp-pH-JAE1J94k2jZjwv9ZaBA">Operating Systems</a></td>
+			<td align="center">38</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Write your own Operating System</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M">Write your own Operating System</a></td>
+			<td align="center">34</td>
+			<td align="center">30</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Xoviabcs</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLEJxKK7AcSEGPOCFtQTJhOElU44J_Jaun">Operating System: IIT Lectures / Tutorials for GATE</a></td>
+			<td align="center">37</td>
+			<td align="center">15</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Darshan Institute of Engineering & Technology</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLftJ4X48yC1n1FyWM_snN2YweAEAwMDLY">Operating System</a></td>
+			<td align="center">79</td>
+			<td align="center">15</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>GATE Applied Course</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLEVDNf7p-wYwYE98Jvh_JYt9g43-AJ-cb">Operating System</a></td>
+			<td align="center">13</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Bilkent Online Courses</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLhwVAYxlh5dsX6aOfVMZXS8MwKwBmwVM6">CS-342 Operating Systems</a></td>
+			<td align="center">48</td>
+			<td align="center">40</td>
+		</tr>
+	</tbody>
+	</table>
+
+<h3>-  Shell Scripting</h3>
+<table>
+	<thead>
+		<tr>
+			<th width="30%">Channel</th>
+			<th width="70%">Playlist</th>
+			<th>Videos</th>
+			<th>H</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td rowspan=1 align=center>ProgrammingKnowledge</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_">Shell Scripting Tutorial for Beginners</a></td>
+			<td align="center">41</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>HackerSploit</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLBf0hzazHTGMJzHon4YXGscxUvsFpxrZT">Shell Scripting</a></td>
+			<td align="center">11</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>The Bad Tutorials</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL7B7FA4E693D8E790">Shell Scripting Tutorials</a></td>
+			<td align="center">62</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Tech Arkit</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL8cE5Nxf6M6b8qW7CSMsdKbEsPdG9pWfu">Shell Scripting Tutorial for Beginners</a></td>
+			<td align="center">66</td>
+			<td align="center">15</td>
+		</tr>
+	</tbody>
+</table>
+
 </details>
 <details>
 	<summary>Theory of Computations and Computer Architecture Playlists</summary>
@@ -2913,6 +3169,12 @@ Computer Science Playlists road map for computer science students, which includi
 			<td align="center">20</td>
 		</tr>
 		<tr>
+			<td rowspan=1 align=center>5 Minutes Engineering</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLYwpaL_SFmcDXLUrW3JEq2cv8efNF6UeQ">Theory Of Computation (TOC)</a></td>
+			<td align="center">23</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
 			<td rowspan=1 align=center>DigiiMento: GATE, NTA NET & Other CSE Exam Prep</td>
 			<td><a href="https://www.youtube.com/playlist?list=PLS8ACsmFCpmQ7aMtE2tG9mhYYor0BQ-Hn">Theory of Computation</a></td>
 			<td align="center">43</td>
@@ -2967,10 +3229,10 @@ Computer Science Playlists road map for computer science students, which includi
 			<td align="center">25</td>
 		</tr>
 		<tr>
-			<td rowspan=1 align=center>UC Davis Academics</td>
-			<td><a href="https://www.youtube.com/playlist?list=PL_w_qWAQZtAYRxrBXDwlSGo5tgm7bXJqW">Theory of Computation - Fall 2011</a></td>
-			<td align="center">27</td>
-			<td align="center">30</td>
+			<td rowspan=1 align=center>Xoviabcs</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLEJxKK7AcSEEYrMd4G7Y3mjGlE651B7yc">Theory of Computation (TOC) or Automata Theory | Gate Lectures</a></td>
+			<td align="center">32</td>
+			<td align="center">20</td>
 		</tr>
 	</tbody>
 </table>
@@ -2978,7 +3240,6 @@ Computer Science Playlists road map for computer science students, which includi
 </details>
 <details>
 	<summary>Compilers and Parallel Computing and Distributed Systems Playlists</summary>
-
 
 <h3>-  Concepts of Programming Languages</h3>
 <table>
@@ -3144,9 +3405,157 @@ Computer Science Playlists road map for computer science students, which includi
 			<td align="center">30</td>
 		</tr>
 	</tbody>
+	</table>
+
+<h3>-  Parallel Programming</h3>
+<table>
+	<thead>
+		<tr>
+			<th width="30%">Channel</th>
+			<th width="70%">Playlist</th>
+			<th>Videos</th>
+			<th>H</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td rowspan=1 align=center>nptelhrd</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLbMVogVj5nJQRvzENlvMKA9q70ScSRZBQ">Computer Science - Parallel Computing</a></td>
+			<td align="center">34</td>
+			<td align="center">30</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Udacity</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLAwxTw4SYaPm0z11jGTXRF7RuEEAgsIwH">Introduction to Parallel Programming</a></td>
+			<td align="center">39</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Udacity</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLAwxTw4SYaPnFKojVQrmyOGFCqHTxfdv2">Intro to Parallel Programming</a></td>
+			<td align="center">458</td>
+			<td align="center">15</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>5 Minutes Engineering</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLYwpaL_SFmcB73J5yO6uSFUycHJSA45O0">CUDA</a></td>
+			<td align="center">7</td>
+			<td align="center">1</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>5 Minutes Engineering</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLYwpaL_SFmcA1eJbqwvjKgsnT321hXRGx">High Performance Computing - Parallel Computing</a></td>
+			<td align="center">38</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Computer Science and Engineering</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLJ5C_6qdAvBFMAko9JTyDJDIt1W48Sxmg">Introduction to parallel Programming in Open MP</a></td>
+			<td align="center">37</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Carnegie Mellon Computer Architecture</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL5PHm2jkkXmh4cDkC3s1VBB7-njlgiG5d">Fall 2012 - 742 Parallel Computer Architecture</a></td>
+			<td align="center">24</td>
+			<td align="center">40</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>OpenMP</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLLX-Q6B8xqZ8n8bwjGdzBJ25X2utwnoEG">Introduction to OpenMP - Tim Mattson (Intel)</a></td>
+			<td align="center">27</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>cscsch</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL1tk5lGm7zvQ-EzsiTZ6Xv1SxZs74epzg">High-Performance Computing with Python</a></td>
+			<td align="center">15</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>CoffeeBeforeArch</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLxNPSjHT5qvugVNYwtQwnvSQyvlbzAML3">Practical Parallelism in C++</a></td>
+			<td align="center">11</td>
+			<td align="center">3</td>
+		</tr>
+	</tbody>
+	</table>
+
+<h3>-  Distributed System</h3>
+<table>
+	<thead>
+		<tr>
+			<th width="30%">Channel</th>
+			<th width="70%">Playlist</th>
+			<th>Videos</th>
+			<th>H</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td rowspan=1 align=center>Education 4u</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLrjkTql3jnm9FEOXHA_qjR-TMODlaIk-W">Distributed Systems</a></td>
+			<td align="center">77</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>University Academy</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL-JvKqQx2AtdBuhyvazfDL-sIwbA7iTbr">Distributed System Tutorial In Hindi</a></td>
+			<td align="center">42</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>uwaterloo</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLawkBQ15NDEkDJ5IyLIJUTZ1rRM9YQq6N">CS 436: Distributed Computer Systems</a></td>
+			<td align="center">24</td>
+			<td align="center">25</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Unknown</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB">MIT 6.824 Distributed Systems (Spring 2020)</a></td>
+			<td align="center">21</td>
+			<td align="center">25</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Unknown</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLOE1GTZ5ouRPbpTnrZ3Wqjamfwn_Q5Y9A">Distributed Systems</a></td>
+			<td align="center">17</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Unknown</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB">Distributed Systems lecture series</a></td>
+			<td align="center">23</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Unknown</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLPIwNooIb9vhYroMrNpoBYiBUFzTwEZot">Distributed Computing ( Mumbai University)</a></td>
+			<td align="center">27</td>
+			<td align="center">3</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Unknown</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLR01NznUoZKaXWUUlYnizfIMIvOeA_262">Parallel Distributed System (PDS)</a></td>
+			<td align="center">32</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Unknown</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLNPUF5QyWU8O0Wd8QDh9KaM1ggsxspJ31">CSE138 (Distributed Systems) lectures, Spring 2020</a></td>
+			<td align="center">26</td>
+			<td align="center">30</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Unknown</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLFW6lRTa1g82dte3YD_7-GoZXcBiK6K9G">Cloud Computing and Distributed Systems - Prof. Rajiv Misra</a></td>
+			<td align="center">22</td>
+			<td align="center">20</td>
+		</tr>
+	</tbody>
 </table>
 
 </details>
 
 **SKILLS YOU WILL GAIN:**<br>
-`computer science`, `discrete mathematics`, `mathematics`, `probability`, `statistics`, `python programming`, `c++ programming`, `c programming`, `c++ object oriented programming (oop)`, `python object oriented programming (oop)`, `logic design`, `data structures`, `algorithms`, `advanced data Structures`, `advanced algorithms`, `theory of computations`, `compiler`, `concepts of programming languages`, `computer architecture`, `computer organization`
+`computer science`, `discrete mathematics`, `mathematics`, `probability`, `statistics`, `python programming`, `c++ programming`, `c programming`, `c++ object oriented programming (oop)`, `python object oriented programming (oop)`, `electronics`, `logic design`, `data structures`, `algorithms`, `advanced data Structures`, `advanced algorithms`, `theory of computations`, `compiler`, `concepts of programming languages`, `computer architecture`, `computer organization`, `parallel processing`, `parallel computing`, `distributed systems`, `operating systems`, `shell scripting`
