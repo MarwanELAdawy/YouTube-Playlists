@@ -2719,11 +2719,11 @@ Computer Science Playlists road map for computer science students, which includi
 
 </details>
 <details>
-	<summary>Operating Systems and Parallel Computing and Distributed Systems Playlists</summary>
+	<summary>Operating Systems and Shell Scripting Playlists</summary>
 
 </details>
 <details>
-	<summary>Theory of Computations and Computer Architecture and Organization Playlists</summary>
+	<summary>Theory of Computations and Computer Architecture Playlists</summary>
 
 <h3>-  Computer Architecture and Organization</h3>
 <table>
@@ -2977,7 +2977,7 @@ Computer Science Playlists road map for computer science students, which includi
 
 </details>
 <details>
-	<summary>Concepts of Programming Languages and Compilers Playlists</summary>
+	<summary>Compilers and Parallel Computing and Distributed Systems Playlists</summary>
 
 
 <h3>-  Concepts of Programming Languages</h3>
